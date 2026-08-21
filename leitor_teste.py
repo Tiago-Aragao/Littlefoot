@@ -54,6 +54,5 @@ def testar_extracao_time(arquivo_ban):
         print(f"Erro ao processar o arquivo: {e}")
 
 if __name__ == '__main__':
-    # Cole aqui o caminho completo de um único arquivo .ban para teste
-    caminho_teste = r"C:\caminho\para\o\seu\4dejulho_pi.ban"
+    caminho_teste = r"Aqui Vou adicionar o caminho para um time teste"
     testar_extracao_time(caminho_teste)
