@@ -1,0 +1,222 @@
+{
+  "nome": "KF Teuta",
+  "pais": "Albânia",
+  "estado": null,
+  "nivel": 14,
+  "reputacao": 2,
+  "tecnico": "Renato Arapi",
+  "estadio": {
+    "nome": "Niko Dovana",
+    "capacidade": 12000
+  },
+  "cores": {
+    "primaria": "#00ccff",
+    "secundaria": "#000066"
+  },
+  "plantel": [
+    {
+      "nome": "Panajot Qirko",
+      "idade": 23,
+      "nacionalidade": "Albânia",
+      "posicao": "Goleiro",
+      "caracteristica_primaria": "Reflexo",
+      "caracteristica_secundaria": "Colocação",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Endri Dema",
+      "idade": 18,
+      "nacionalidade": "Albânia",
+      "posicao": "Goleiro",
+      "caracteristica_primaria": "Saída do Gol",
+      "caracteristica_secundaria": "Defesa Penalty",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Jackson",
+      "idade": 31,
+      "nacionalidade": "Brasil",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Blerim Kotobelli",
+      "idade": 29,
+      "nacionalidade": "Albânia",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Hektor Idrizaj",
+      "idade": 33,
+      "nacionalidade": "Albânia",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Reild Kurti",
+      "idade": 19,
+      "nacionalidade": "Albânia",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Cruzamento",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Artan Jazxhi",
+      "idade": 21,
+      "nacionalidade": "Albânia",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Resistência",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Harallamb Qaqi",
+      "idade": 28,
+      "nacionalidade": "Albânia",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Danilo Gecaj",
+      "idade": 22,
+      "nacionalidade": "Albânia",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Emiljano Vila",
+      "idade": 34,
+      "nacionalidade": "Albânia",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Uheid Hoxha",
+      "idade": 21,
+      "nacionalidade": "Albânia",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Armação",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Ledio Beqja",
+      "idade": 21,
+      "nacionalidade": "Albânia",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Aldrit Oshafi",
+      "idade": 22,
+      "nacionalidade": "Albânia",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Dejvid Kapllani",
+      "idade": 21,
+      "nacionalidade": "Albânia",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Armação",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Lorenco Vila",
+      "idade": 23,
+      "nacionalidade": "Albânia",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Cabeceio",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Ildi Gruda",
+      "idade": 22,
+      "nacionalidade": "Albânia",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Cabeceio",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Rubin Hebaj",
+      "idade": 23,
+      "nacionalidade": "Albânia",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Velocidade",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    }
+  ]
+}

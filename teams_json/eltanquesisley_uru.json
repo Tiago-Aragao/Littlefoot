@@ -1,0 +1,210 @@
+{
+  "nome": "El Tanque Sisley",
+  "pais": "Uruguai",
+  "estado": null,
+  "nivel": 10,
+  "reputacao": 1,
+  "tecnico": "Julio Cesar Antunes",
+  "estadio": {
+    "nome": "Victor Della Valle",
+    "capacidade": 4500
+  },
+  "cores": {
+    "primaria": "#009933",
+    "secundaria": "#000000"
+  },
+  "plantel": [
+    {
+      "nome": "Sebastián Britos",
+      "idade": 30,
+      "nacionalidade": "Uruguai",
+      "posicao": "Goleiro",
+      "caracteristica_primaria": "Colocação",
+      "caracteristica_secundaria": "Defesa Penalty",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "D'Oliveira",
+      "idade": 23,
+      "nacionalidade": "Uruguai",
+      "posicao": "Goleiro",
+      "caracteristica_primaria": "Colocação",
+      "caracteristica_secundaria": "Defesa Penalty",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Diego de Souza",
+      "idade": 34,
+      "nacionalidade": "Uruguai",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Damian Costa",
+      "idade": 22,
+      "nacionalidade": "Uruguai",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Cruzamento",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Mathías Rodríguez",
+      "idade": 21,
+      "nacionalidade": "Uruguai",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Resistência",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Cristian González",
+      "idade": 41,
+      "nacionalidade": "Uruguai",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Marcação",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Pablo Fagúndez",
+      "idade": 32,
+      "nacionalidade": "Uruguai",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Resistência",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Gaston Martinez",
+      "idade": 28,
+      "nacionalidade": "Uruguai",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Armação",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Rodrigo Viega",
+      "idade": 26,
+      "nacionalidade": "Uruguai",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Gustavo Aprile",
+      "idade": 29,
+      "nacionalidade": "Uruguai",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Mathias Lopez",
+      "idade": 20,
+      "nacionalidade": "Uruguai",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Passe",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Pablo Lima",
+      "idade": 27,
+      "nacionalidade": "Uruguai",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Marcação",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Luis Machado",
+      "idade": 26,
+      "nacionalidade": "Uruguai",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Drible",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Jonathan Ramirez",
+      "idade": 27,
+      "nacionalidade": "Uruguai",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Cabeceio",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Direito",
+      "titularidade": "Titular",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Juan Ignacio Delgado",
+      "idade": 23,
+      "nacionalidade": "Uruguai",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Juan Mascia",
+      "idade": 24,
+      "nacionalidade": "Uruguai",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    }
+  ]
+}

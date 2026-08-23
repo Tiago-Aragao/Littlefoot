@@ -1,0 +1,222 @@
+{
+  "nome": "Evolucas",
+  "pais": "Guadalupe",
+  "estado": null,
+  "nivel": 5,
+  "reputacao": 0,
+  "tecnico": "Jean-Loup Lagarde",
+  "estadio": {
+    "nome": "Lementin",
+    "capacidade": 2000
+  },
+  "cores": {
+    "primaria": "#cccc00",
+    "secundaria": "#990000"
+  },
+  "plantel": [
+    {
+      "nome": "Patrick",
+      "idade": 32,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Goleiro",
+      "caracteristica_primaria": "Colocação",
+      "caracteristica_secundaria": "Defesa Penalty",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Alfred Guillaume",
+      "idade": 27,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Goleiro",
+      "caracteristica_primaria": "Colocação",
+      "caracteristica_secundaria": "Saída do Gol",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Stéphane",
+      "idade": 22,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Cruzamento",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Gilles Colin",
+      "idade": 27,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Cruzamento",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Ernest",
+      "idade": 20,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Lateral",
+      "caracteristica_primaria": "Cruzamento",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Roland",
+      "idade": 21,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Cabeceio",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Armand",
+      "idade": 25,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Fernand",
+      "idade": 28,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Cabeceio",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Hervé",
+      "idade": 18,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Zagueiro",
+      "caracteristica_primaria": "Marcação",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Edmond Petri",
+      "idade": 33,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Victor",
+      "idade": 27,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Armação",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Ernest Picard",
+      "idade": 34,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Armação",
+      "caracteristica_secundaria": "Finalização",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Gilbert",
+      "idade": 22,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Desarme",
+      "caracteristica_secundaria": "Cabeceio",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Denis Laporte",
+      "idade": 35,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Meia",
+      "caracteristica_primaria": "Armação",
+      "caracteristica_secundaria": "Passe",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Marc Bouvier",
+      "idade": 21,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Cabeceio",
+      "lado": "Esquerdo",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Xavier Charpentier",
+      "idade": 26,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Cabeceio",
+      "caracteristica_secundaria": "Velocidade",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    },
+    {
+      "nome": "Thierry",
+      "idade": 18,
+      "nacionalidade": "Guadalupe",
+      "posicao": "Atacante",
+      "caracteristica_primaria": "Finalização",
+      "caracteristica_secundaria": "Drible",
+      "lado": "Direito",
+      "titularidade": "Banco",
+      "craque": false,
+      "craque_mundial": false
+    }
+  ]
+}
