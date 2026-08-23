@@ -1,23 +1,23 @@
 import javaobj
 import json
 from pathlib import Path
+from multiprocessing import Pool, cpu_count
 from tradutor_base_dados import *
 
-def testar_extracao_time(arquivo_ban):
+def processar_arquivo(args):
+    arquivo_ban, pasta_destino = args
+    
     try:
-        print(f"Lendo o arquivo: {arquivo_ban}...")
         with open(arquivo_ban, "rb") as f:
             obj = javaobj.load(f)
             
-        # Caso o pais não seja brasil torna o estado None:
-        pais_id = getattr(obj, 'a', 0)
+        pais_id = getattr(obj, 'a', 0) 
         
-        # 1. Extração dos dados do Time
         time_json = {
             "nome": getattr(obj, 'e', 'Desconhecido'),
-            "pais": dict_paises.get(getattr(obj, 'a', 0), "Desconhecido"),
+            "pais": dict_paises.get(pais_id, "Desconhecido"),
             "estado": dict_estados.get(getattr(obj, 'b', 0), "Desconhecido") if pais_id == 29 else None,
-            "nivel inicial": getattr(obj, 'c', 1),
+            "nivel": getattr(obj, 'c', 1),
             "reputacao": getattr(obj, 'n', 1),
             "tecnico": getattr(obj, 'h', 'Sem Técnico'),
             "estadio": {
@@ -31,7 +31,6 @@ def testar_extracao_time(arquivo_ban):
             "plantel": []
         }
         
-        # 2. Extração dos Jogadores
         lista_jogadores = getattr(obj, 'l', [])
         for jog in lista_jogadores:
             jogador_limpo = {
@@ -48,16 +47,40 @@ def testar_extracao_time(arquivo_ban):
             }
             time_json["plantel"].append(jogador_limpo)
             
-        # 3. Salvar JSON de teste
-        caminho_out = Path(arquivo_ban).with_suffix('.json')
+        
+        nome_arquivo = arquivo_ban.stem + '.json'
+        caminho_out = pasta_destino / nome_arquivo
+        
         with open(caminho_out, 'w', encoding='utf-8') as f_out:
             json.dump(time_json, f_out, ensure_ascii=False, indent=2)
             
-        print(f"Sucesso! JSON estruturado salvo em:\n-> {caminho_out}")
+        return True
         
     except Exception as e:
-        print(f"Erro ao processar o arquivo: {e}")
+        print(f"Erro no arquivo {arquivo_ban.name}: {e}")
+        return False
+
+def converter_bans(pasta_origem, pasta_destino):
+    origem = Path(pasta_origem)
+    destino = Path(pasta_destino)
+
+    destino.mkdir(parents=True, exist_ok=True)
+    
+    arquivos_ban = list(origem.glob("*.ban"))
+    total = len(arquivos_ban)
+    print(f"Encontrados {total} times. Iniciando extração com todos os núcleos...\n")
+    
+    argumentos = [(arq, destino) for arq in arquivos_ban]
+    
+    nucleos = cpu_count()
+    
+    with Pool(processes=nucleos) as pool:
+        resultados = pool.map(processar_arquivo, argumentos)
+        
+    sucessos = sum(1 for r in resultados if r is True)
+    print(f"\nFinalizado! {sucessos} de {total} times convertidos para JSON em '{destino.name}'.")
 
 if __name__ == '__main__':
-    caminho_teste = r"C:\Users\Tiago\Desktop\Littlefoot\1deagosto_ang.ban"
-    testar_extracao_time(caminho_teste)
+    pasta_teams = r"C:\Users\Tiago\Desktop\Littlefoot\teams_ban"
+    pasta_json = r"C:\Users\Tiago\Desktop\Littlefoot\teams_json"
+    converter_bans(pasta_teams, pasta_json)
