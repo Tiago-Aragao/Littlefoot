@@ -1,3 +1,4 @@
 .vscode/
 .idea/
 *.pdf
+node_modules/
