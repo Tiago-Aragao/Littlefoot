@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Edwin Pavón",
   "estadio": {
     "nome": "Rúben Deras",

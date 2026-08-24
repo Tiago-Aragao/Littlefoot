@@ -3,7 +3,7 @@
   "pais": "Ilhas Cook",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jake Numanga",
   "estadio": {
     "nome": "Titikaveka Field",

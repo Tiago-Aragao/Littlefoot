@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Xin Duan",
   "estadio": {
     "nome": "Harbin International Stadium",

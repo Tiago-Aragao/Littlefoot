@@ -3,7 +3,7 @@
   "pais": "Sri Lanka",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Dudley Steinwall",
   "estadio": {
     "nome": "Colombo Racecourse",

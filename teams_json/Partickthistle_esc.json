@@ -3,7 +3,7 @@
   "pais": "Escócia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ian McCall",
   "estadio": {
     "nome": "Energy Check Stadium ",

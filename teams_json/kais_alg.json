@@ -3,7 +3,7 @@
   "pais": "Argélia",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Karim Belloumi",
   "estadio": {
     "nome": "Communal Khenchla",

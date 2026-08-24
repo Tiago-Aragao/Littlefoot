@@ -3,7 +3,7 @@
   "pais": "Guam",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Joel Sablan",
   "estadio": {
     "nome": "GFA Center Lower Field",

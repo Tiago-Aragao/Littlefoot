@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Tocantins",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Roberto Oliveira",
   "estadio": {
     "nome": "General Sampaio",

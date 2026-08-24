@@ -3,7 +3,7 @@
   "pais": "Brunei",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Farisan Metassan",
   "estadio": {
     "nome": "National Stadium",

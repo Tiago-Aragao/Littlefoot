@@ -3,7 +3,7 @@
   "pais": "Burkina Faso",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mousso Ouédraogo",
   "estadio": {
     "nome": "Stade de la SONABEL",

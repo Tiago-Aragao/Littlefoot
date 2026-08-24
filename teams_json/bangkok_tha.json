@@ -3,7 +3,7 @@
   "pais": "Tailândia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mano Pölking",
   "estadio": {
     "nome": "True Stadium",

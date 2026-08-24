@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 14,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pascutti",
   "estadio": {
     "nome": "Fragata Presidente Sarmiento",

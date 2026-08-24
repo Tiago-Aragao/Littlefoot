@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergio Araujo",
   "estadio": {
     "nome": "Pituaçu",

@@ -3,7 +3,7 @@
   "pais": "Granada",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Tarze",
   "estadio": {
     "nome": "Progress Park",

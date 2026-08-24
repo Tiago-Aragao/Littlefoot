@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Piauí",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paulo Moroni",
   "estadio": {
     "nome": "Lindolfo Monteiro",

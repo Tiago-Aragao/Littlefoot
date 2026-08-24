@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Vladan Tomic",
   "estadio": {
     "nome": "MFA Centenary Stadium",

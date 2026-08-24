@@ -3,7 +3,7 @@
   "pais": "Belize",
   "estado": null,
   "nivel": 4,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ticoo",
   "estadio": {
     "nome": "Belizium",

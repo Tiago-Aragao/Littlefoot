@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Gary Smith",
   "estadio": {
     "nome": "GEODIS Park ",

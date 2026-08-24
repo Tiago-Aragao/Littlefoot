@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Stanley Pointdujour",
   "estadio": {
     "nome": "Parc Julia Vilbon",

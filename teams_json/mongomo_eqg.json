@@ -3,7 +3,7 @@
   "pais": "Guiné Equatorial",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Aranha",
   "estadio": {
     "nome": "La Libertad",

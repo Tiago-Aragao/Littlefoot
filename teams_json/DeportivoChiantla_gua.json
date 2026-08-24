@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jorge Marmut",
   "estadio": {
     "nome": "Estadio de Buenos Aires",

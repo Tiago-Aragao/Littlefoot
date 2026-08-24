@@ -3,7 +3,7 @@
   "pais": "Coreia do Norte",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Kim Chong",
   "estadio": {
     "nome": "Chandongja Park",

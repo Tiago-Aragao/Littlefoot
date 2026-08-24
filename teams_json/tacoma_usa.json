@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Chris Little",
   "estadio": {
     "nome": "Cheney Stadium",

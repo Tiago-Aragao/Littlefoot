@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Steve Corica",
   "estadio": {
     "nome": "Jubilee Oval",

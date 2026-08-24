@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Eloy Ubaldo Martínez",
   "estadio": {
     "nome": "Pista Jacinto Hernández",

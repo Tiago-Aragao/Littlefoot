@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Valmir Israel",
   "estadio": {
     "nome": "14 de Dezembro",

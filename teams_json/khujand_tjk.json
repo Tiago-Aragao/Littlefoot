@@ -3,7 +3,7 @@
   "pais": "Tadjquistão",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Rustam Khojaev",
   "estadio": {
     "nome": "Stadion 20-letie Nezavisimosti",

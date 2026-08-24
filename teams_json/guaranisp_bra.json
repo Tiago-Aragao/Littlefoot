@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Matheus Costa",
   "estadio": {
     "nome": "Brinco de Ouro",

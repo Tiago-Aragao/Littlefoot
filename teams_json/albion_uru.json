@@ -3,7 +3,7 @@
   "pais": "Uruguai",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Federico Nieves",
   "estadio": {
     "nome": "Parque Dr. Enrique Falco",

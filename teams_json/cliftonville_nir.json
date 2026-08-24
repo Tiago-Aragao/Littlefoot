@@ -3,7 +3,7 @@
   "pais": "Irlanda do Norte",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Paddy McLaughlin",
   "estadio": {
     "nome": "Solitude",

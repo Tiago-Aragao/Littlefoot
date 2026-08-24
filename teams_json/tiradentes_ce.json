@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Ceará",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Danilo Augusto",
   "estadio": {
     "nome": "Presidente Vargas",

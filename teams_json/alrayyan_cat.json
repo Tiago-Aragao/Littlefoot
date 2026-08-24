@@ -3,7 +3,7 @@
   "pais": "Catar",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Laurent Blanc",
   "estadio": {
     "nome": "Ahmed bin Ali",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Minas Gerais",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Tuca Guimarães",
   "estadio": {
     "nome": "Parque do Sabiá",

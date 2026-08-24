@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Elio Sizenando",
   "estadio": {
     "nome": "Arena Capivari",

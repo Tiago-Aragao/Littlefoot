@@ -3,7 +3,7 @@
   "pais": "Tunísia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Bertrand Marchand",
   "estadio": {
     "nome": "Municipal de La Chebba",

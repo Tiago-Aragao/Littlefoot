@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Bernard Blaquart",
   "estadio": {
     "nome": "Stade des Costières ",

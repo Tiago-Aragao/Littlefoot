@@ -3,7 +3,7 @@
   "pais": "Bermudas",
   "estado": null,
   "nivel": 8,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Keishon Smith",
   "estadio": {
     "nome": "Somerset Cricket Club Field",

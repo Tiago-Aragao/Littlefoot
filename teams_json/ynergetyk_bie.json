@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vladimir Belyavski",
   "estadio": {
     "nome": "Stadyen RTsOP-BGU",

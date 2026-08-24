@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Sergipe",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paulo Foiani",
   "estadio": {
     "nome": "Batistão",

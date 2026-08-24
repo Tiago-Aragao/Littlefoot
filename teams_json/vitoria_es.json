@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Espírito Santo",
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Rodrigo Fonseca",
   "estadio": {
     "nome": "Ninho da Águia",

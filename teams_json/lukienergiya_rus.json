@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergei Osadchuk",
   "estadio": {
     "nome": "Express Stadion",

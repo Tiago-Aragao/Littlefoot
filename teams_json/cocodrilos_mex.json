@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jesús Octavio Mora",
   "estadio": {
     "nome": "Olímpico de Villahermosa",

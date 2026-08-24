@@ -3,7 +3,7 @@
   "pais": "Escócia",
   "estado": null,
   "nivel": 2,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Wright",
   "estadio": {
     "nome": "McDiarmid Park",

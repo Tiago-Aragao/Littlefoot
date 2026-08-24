@@ -3,7 +3,7 @@
   "pais": "Uganda",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mitchel Kazibwe ",
   "estadio": {
     "nome": "Champions Stadium",

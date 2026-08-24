@@ -3,7 +3,7 @@
   "pais": "Noruega",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Sondre",
   "estadio": {
     "nome": "AKA-Arena",

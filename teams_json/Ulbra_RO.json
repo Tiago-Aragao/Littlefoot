@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rondonia",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rafael Andrade",
   "estadio": {
     "nome": "Biancão",

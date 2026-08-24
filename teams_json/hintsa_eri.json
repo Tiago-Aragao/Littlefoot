@@ -3,7 +3,7 @@
   "pais": "Eritréia",
   "estado": null,
   "nivel": 5,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Caio González",
   "estadio": {
     "nome": "ChicChero Stadium",

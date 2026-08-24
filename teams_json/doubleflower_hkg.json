@@ -3,7 +3,7 @@
   "pais": "Hong Kong",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Fung Chung Ting",
   "estadio": {
     "nome": "Happy Valley Recreation Ground",

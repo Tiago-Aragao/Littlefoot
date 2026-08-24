@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Barthelemy Ngatsono",
   "estadio": {
     "nome": "Alphonse Massamba-Débat",

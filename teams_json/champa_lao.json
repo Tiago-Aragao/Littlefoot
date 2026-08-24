@@ -3,7 +3,7 @@
   "pais": "Laos",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Kimo Somphousiharath",
   "estadio": {
     "nome": "Champasak Stadium",

@@ -3,7 +3,7 @@
   "pais": "Uruguai",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Javier De León",
   "estadio": {
     "nome": "Parque Pedro Bossio",

@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Lorenzo López",
   "estadio": {
     "nome": "Estadio Centenario Los Monchis",

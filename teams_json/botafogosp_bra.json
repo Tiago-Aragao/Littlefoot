@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Cláudio Tencati",
   "estadio": {
     "nome": "Santa Cruz",

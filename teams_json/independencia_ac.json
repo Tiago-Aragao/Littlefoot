@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Acre",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Illimani Suares",
   "estadio": {
     "nome": "Estádio José de Melo",

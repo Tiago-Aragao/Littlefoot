@@ -3,7 +3,7 @@
   "pais": "Aruba",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Zokhau",
   "estadio": {
     "nome": "Santa Cruz",

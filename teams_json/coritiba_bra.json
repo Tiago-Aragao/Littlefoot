@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Fernando Seabra",
   "estadio": {
     "nome": "Couto Pereira",

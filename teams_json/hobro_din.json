@@ -3,7 +3,7 @@
   "pais": "Dinamarca",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Peter Sörensen",
   "estadio": {
     "nome": "DS Arena",

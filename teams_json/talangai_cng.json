@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Francis Ndumba",
   "estadio": {
     "nome": "Alphonse Massamba-Débat",

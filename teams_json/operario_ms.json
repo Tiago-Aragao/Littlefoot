@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Mato Grosso Sul",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Glauber Caldas",
   "estadio": {
     "nome": "Universitário Pedro Pedrossian",

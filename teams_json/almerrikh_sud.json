@@ -3,7 +3,7 @@
   "pais": "Sudão",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ghazi Ghrairi",
   "estadio": {
     "nome": "Al-Merrikh Stadium",

@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Feng Xie",
   "estadio": {
     "nome": "Workers Stadium",

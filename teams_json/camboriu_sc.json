@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Santa Catarina",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mauro Ovelha",
   "estadio": {
     "nome": "Robertão",

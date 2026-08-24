@@ -3,7 +3,7 @@
   "pais": "Nova Zelândia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Albert Riera",
   "estadio": {
     "nome": "Vector Arena",

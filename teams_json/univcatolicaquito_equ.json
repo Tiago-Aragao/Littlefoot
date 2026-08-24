@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 18,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Miguel Rondelli",
   "estadio": {
     "nome": "Olímpico Atahualpa",

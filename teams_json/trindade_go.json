@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Goiás",
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Waldimir Araújo",
   "estadio": {
     "nome": "Abrão Costa",

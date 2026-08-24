@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Robin Chapman",
   "estadio": {
     "nome": "Antigua Recreation Ground",

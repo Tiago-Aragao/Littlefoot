@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 11,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Igor Picusceac",
   "estadio": {
     "nome": "Cristal",

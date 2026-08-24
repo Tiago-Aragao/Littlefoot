@@ -3,7 +3,7 @@
   "pais": "Samoa",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Charles Ariiotima",
   "estadio": {
     "nome": "Veterans Memorial Stadium",

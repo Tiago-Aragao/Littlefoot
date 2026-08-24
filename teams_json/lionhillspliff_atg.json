@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jess Stephenson",
   "estadio": {
     "nome": "Antigua Recreation Ground",

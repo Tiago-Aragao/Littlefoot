@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Espírito Santo",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rafael Soriano",
   "estadio": {
     "nome": "Estádio Kleber Andrade",

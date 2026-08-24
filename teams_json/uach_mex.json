@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Diego López",
   "estadio": {
     "nome": "Olímpico José Reyes Baeza",

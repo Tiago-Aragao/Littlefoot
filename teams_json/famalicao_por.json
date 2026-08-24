@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 18,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Hugo Oliveira",
   "estadio": {
     "nome": "Municipal 22 de junho",

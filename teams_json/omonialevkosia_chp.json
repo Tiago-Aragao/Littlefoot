@@ -3,7 +3,7 @@
   "pais": "Chipre",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Pambos Christodoulou",
   "estadio": {
     "nome": "Neo GSP",

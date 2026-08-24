@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Adrián Romero",
   "estadio": {
     "nome": "Estadio Olímpico Patria",

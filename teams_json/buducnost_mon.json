@@ -3,7 +3,7 @@
   "pais": "Montenegro",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Aleksandar Nedovic",
   "estadio": {
     "nome": "Pod Goricom",

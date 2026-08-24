@@ -3,7 +3,7 @@
   "pais": "Uganda",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mike Mutebi",
   "estadio": {
     "nome": "Star Times",

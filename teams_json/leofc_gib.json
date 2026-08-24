@@ -3,7 +3,7 @@
   "pais": "Gibraltar",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Francisco Sanchez",
   "estadio": {
     "nome": "Victoria Stadium",

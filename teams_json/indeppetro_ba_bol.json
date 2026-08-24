@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 1,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marcelo Robledo",
   "estadio": {
     "nome": "Olímpico Patria",

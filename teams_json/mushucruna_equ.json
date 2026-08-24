@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ricardo Dillon",
   "estadio": {
     "nome": "Hechaleche",

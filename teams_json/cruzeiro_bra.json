@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Minas Gerais",
   "nivel": 20,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Tite",
   "estadio": {
     "nome": "Mineirão",

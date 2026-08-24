@@ -3,7 +3,7 @@
   "pais": "Catar",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mubarak Al-Naemi",
   "estadio": {
     "nome": "Al-Markhiya Stadium",

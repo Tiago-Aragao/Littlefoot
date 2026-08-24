@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 1,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Franclim Carvalho",
   "estadio": {
     "nome": "Nacional",

@@ -3,7 +3,7 @@
   "pais": "Sudão",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "João Mota",
   "estadio": {
     "nome": "Al-Hilal Stadium ",

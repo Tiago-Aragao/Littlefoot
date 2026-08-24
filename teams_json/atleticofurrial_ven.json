@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Elbio Martinez",
   "estadio": {
     "nome": "Alexander Bottini",

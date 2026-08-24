@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Norte",
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rubélio Freitas",
   "estadio": {
     "nome": "Arena das Dunas",

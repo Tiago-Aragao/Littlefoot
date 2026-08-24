@@ -3,7 +3,7 @@
   "pais": "Hong Kong",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Chi-Kwong Alex Chu",
   "estadio": {
     "nome": "Mong Kok",

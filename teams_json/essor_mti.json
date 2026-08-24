@@ -3,7 +3,7 @@
   "pais": "Martinica",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Christophe Marie-Rose",
   "estadio": {
     "nome": "Stade Albert Joyau",

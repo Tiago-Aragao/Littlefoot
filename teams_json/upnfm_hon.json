@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "José Nazar",
   "estadio": {
     "nome": "Tiburcio Carías Andino ",

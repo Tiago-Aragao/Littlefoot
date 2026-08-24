@@ -3,7 +3,7 @@
   "pais": "Ucrânia",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergiy Solovyov",
   "estadio": {
     "nome": "Meteor",

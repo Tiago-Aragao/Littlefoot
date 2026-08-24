@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 5,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marc dos Santos",
   "estadio": {
     "nome": "Kezar Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Santa Catarina",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marcelo Caranhato",
   "estadio": {
     "nome": "Aníbal Costa",

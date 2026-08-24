@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Mato Grosso",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Zé Humberto",
   "estadio": {
     "nome": "Dutrinha",

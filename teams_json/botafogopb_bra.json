@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraíba",
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Itamar Schulle",
   "estadio": {
     "nome": "Almeidão",

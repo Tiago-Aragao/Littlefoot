@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Lacassio",
   "estadio": {
     "nome": "Pointe-Noire",

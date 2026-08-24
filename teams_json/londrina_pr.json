@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Allan Aal",
   "estadio": {
     "nome": "Do Café",

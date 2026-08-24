@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Thiago Carpini",
   "estadio": {
     "nome": "Distrital de Inamar",

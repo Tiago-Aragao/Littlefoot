@@ -3,7 +3,7 @@
   "pais": "Polônia",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Kubot",
   "estadio": {
     "nome": "Stadion Górnik",

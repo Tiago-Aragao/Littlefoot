@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Espírito Santo",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Yupi Silva",
   "estadio": {
     "nome": "Joaquim Calmon",

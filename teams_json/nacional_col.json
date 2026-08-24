@@ -3,7 +3,7 @@
   "pais": "Colômbia",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Hernán Herrera",
   "estadio": {
     "nome": "Atanasio Girardot",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio de Janeiro",
   "nivel": 7,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ney Barreto",
   "estadio": {
     "nome": "Giulite Coutinho",

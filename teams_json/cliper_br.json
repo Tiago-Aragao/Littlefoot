@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amazonas",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Tenório Sousa",
   "estadio": {
     "nome": "Raimundo Alves",

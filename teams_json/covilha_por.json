@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Leonel Pontes",
   "estadio": {
     "nome": "Municipal",

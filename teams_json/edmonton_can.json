@@ -3,7 +3,7 @@
   "pais": "Canadá",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jeff Paulus",
   "estadio": {
     "nome": "Clarke Field",

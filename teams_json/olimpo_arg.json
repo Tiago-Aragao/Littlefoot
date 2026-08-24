@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Paulo Santos ",
   "estadio": {
     "nome": "Roberto Carminatti",

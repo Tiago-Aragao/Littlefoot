@@ -3,7 +3,7 @@
   "pais": "Líbia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Bernard Simondi",
   "estadio": {
     "nome": "Tripoli International",

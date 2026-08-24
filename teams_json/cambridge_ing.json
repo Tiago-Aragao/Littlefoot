@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mark Bonner",
   "estadio": {
     "nome": "Abbey",

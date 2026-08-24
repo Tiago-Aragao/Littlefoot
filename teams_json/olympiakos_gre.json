@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Pedro Martins",
   "estadio": {
     "nome": "Karaiskakis",

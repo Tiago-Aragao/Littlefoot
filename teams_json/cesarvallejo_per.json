@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Chemo del Solar",
   "estadio": {
     "nome": "Mansiche",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pernambuco",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paulo Lima",
   "estadio": {
     "nome": "Gileno de Carli",

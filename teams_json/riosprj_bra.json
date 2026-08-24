@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio de Janeiro",
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mário Junior",
   "estadio": {
     "nome": "Alvarengão",

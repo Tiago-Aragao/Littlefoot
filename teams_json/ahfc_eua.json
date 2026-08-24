@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Josh Gardner",
   "estadio": {
     "nome": "Campbell Road Sports Park",

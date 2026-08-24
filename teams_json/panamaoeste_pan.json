@@ -3,7 +3,7 @@
   "pais": "Panamá",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rolando Palma",
   "estadio": {
     "nome": "Agustín Muquita Sánchez",

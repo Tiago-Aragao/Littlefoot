@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Roraima",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marquinhos Piter",
   "estadio": {
     "nome": "Ribeirão",

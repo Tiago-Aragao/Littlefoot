@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 5,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Banco",
   "estadio": {
     "nome": "Dados",

@@ -3,7 +3,7 @@
   "pais": "Costa do Marfim",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Yssouf Diabaté",
   "estadio": {
     "nome": "Victor Biaka Boda",

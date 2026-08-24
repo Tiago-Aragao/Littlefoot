@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hernán Cristante",
   "estadio": {
     "nome": "Arena Cora",

@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mike Elias",
   "estadio": {
     "nome": "VC Sportsplex",

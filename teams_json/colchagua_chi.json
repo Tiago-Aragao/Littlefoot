@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Raúl González",
   "estadio": {
     "nome": "Jorge Silva Valenzuela",

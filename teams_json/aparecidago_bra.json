@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Goiás",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mezaque Magalhães",
   "estadio": {
     "nome": "Aníbal Toledo",

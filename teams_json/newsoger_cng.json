@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Simon Nanitelamio",
   "estadio": {
     "nome": "Mun. Katanga",

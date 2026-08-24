@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergey Filippenkov",
   "estadio": {
     "nome": "SGAFKST",

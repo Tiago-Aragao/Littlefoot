@@ -3,7 +3,7 @@
   "pais": "Ilhas Marshall",
   "estado": null,
   "nivel": 5,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Duarlu",
   "estadio": {
     "nome": "Majuro Stadium",

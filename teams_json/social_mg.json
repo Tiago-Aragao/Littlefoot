@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Minas Gerais",
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Conrado",
   "estadio": {
     "nome": "Luisão",

@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 15,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Álvaro Pacheco",
   "estadio": {
     "nome": "Vizela",

@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Alex Pastoor",
   "estadio": {
     "nome": "CASHPOINT-Arena",

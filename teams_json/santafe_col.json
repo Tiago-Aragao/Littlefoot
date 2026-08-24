@@ -3,7 +3,7 @@
   "pais": "Colômbia",
   "estado": null,
   "nivel": 18,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Harold Rivera",
   "estadio": {
     "nome": "El Campín",

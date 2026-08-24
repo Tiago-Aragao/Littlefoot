@@ -3,7 +3,7 @@
   "pais": "Macau",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Fang Santos",
   "estadio": {
     "nome": "Olympic Complex",

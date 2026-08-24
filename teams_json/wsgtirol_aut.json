@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Thomas Silberberger",
   "estadio": {
     "nome": "Tivoli Stadion Tirol",

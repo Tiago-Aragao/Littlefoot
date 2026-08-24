@@ -3,7 +3,7 @@
   "pais": "Iraque",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Samir Khadim Hassan",
   "estadio": {
     "nome": "Al-Samawa Stadium",

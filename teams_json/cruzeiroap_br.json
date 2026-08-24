@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amapá",
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "João",
   "estadio": {
     "nome": "Arena Cruzeiro",

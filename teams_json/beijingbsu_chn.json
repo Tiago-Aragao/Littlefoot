@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Hongbo Gao",
   "estadio": {
     "nome": "Beijing Olympic Sports Centre",

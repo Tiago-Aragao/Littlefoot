@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 13,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "José Juan Romero",
   "estadio": {
     "nome": "Arena Ceuta",

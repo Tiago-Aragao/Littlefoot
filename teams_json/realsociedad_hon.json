@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mauro Reyes",
   "estadio": {
     "nome": "Francisco Martínez Durón",

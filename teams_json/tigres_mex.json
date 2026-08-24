@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 18,
-  "reputacao": 4,
+  "reputacao": "Continental",
   "tecnico": "Miguel Herrera",
   "estadio": {
     "nome": "Universitario",

@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Víctor Mora",
   "estadio": {
     "nome": "Olímpico Universitario de Colima",

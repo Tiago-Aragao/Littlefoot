@@ -3,7 +3,7 @@
   "pais": "Senegal",
   "estado": null,
   "nivel": 14,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Demba Mbaye",
   "estadio": {
     "nome": "Demba Diop",

@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Michael O'Neill",
   "estadio": {
     "nome": "Britannia Stadium",

@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Roberto Mosquera",
   "estadio": {
     "nome": "Alberto Gallardo",

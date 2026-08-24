@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio de Janeiro",
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Leandro Dionizio",
   "estadio": {
     "nome": "João Francisco dos Santos",

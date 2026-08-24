@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Derek Adams",
   "estadio": {
     "nome": "Home Park",

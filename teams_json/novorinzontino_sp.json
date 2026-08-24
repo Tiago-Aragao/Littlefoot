@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 14,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Enderson Moreira",
   "estadio": {
     "nome": "Jorjão",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio de Janeiro",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mário Marques",
   "estadio": {
     "nome": "Leônidas Silva ",

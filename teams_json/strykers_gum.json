@@ -3,7 +3,7 @@
   "pais": "Guam",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "David Miles",
   "estadio": {
     "nome": "GFA Center Lower Field",

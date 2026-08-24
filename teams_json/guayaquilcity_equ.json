@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 1,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pool Gavilánez",
   "estadio": {
     "nome": "Benítez Betancourt",

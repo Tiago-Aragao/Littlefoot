@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Leonid Slutski",
   "estadio": {
     "nome": "Kazan Arena",

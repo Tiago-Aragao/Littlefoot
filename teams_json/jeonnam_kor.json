@@ -3,7 +3,7 @@
   "pais": "Coreia do Sul",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Fabiano Soares",
   "estadio": {
     "nome": "Gwangyang Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Índio Ferreira",
   "estadio": {
     "nome": "Alberto Oliveira",

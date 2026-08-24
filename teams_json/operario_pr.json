@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Luizinho Lopes",
   "estadio": {
     "nome": "Germano Krüger",

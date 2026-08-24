@@ -3,7 +3,7 @@
   "pais": "Guiné",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ruben Amalensi",
   "estadio": {
     "nome": "Stade de Bois-Chaudat",

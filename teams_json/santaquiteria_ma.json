@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Maranhão",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Geison Mendes",
   "estadio": {
     "nome": "Rodrigão",

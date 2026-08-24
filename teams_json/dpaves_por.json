@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Nuno Manta Santos",
   "estadio": {
     "nome": "Estádio CD das Aves",

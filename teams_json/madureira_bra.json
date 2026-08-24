@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio de Janeiro",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "José Antônio de Andrade",
   "estadio": {
     "nome": "Anicleto Moscoso",

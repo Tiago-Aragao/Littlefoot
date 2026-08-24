@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Giorgi Dekanosidze",
   "estadio": {
     "nome": "Tengiz Burjanadze Stadium",

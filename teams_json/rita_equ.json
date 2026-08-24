@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Angel Gomez",
   "estadio": {
     "nome": "14 de Junio",

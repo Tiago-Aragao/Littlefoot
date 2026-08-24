@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 5,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Santiago Escobar",
   "estadio": {
     "nome": "Olímpico Atahualpa",

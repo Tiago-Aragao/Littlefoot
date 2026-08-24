@@ -3,7 +3,7 @@
   "pais": "Arábia Saudita",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Cristiano Ronaldo",
   "estadio": {
     "nome": "King Abdullah Sport City",

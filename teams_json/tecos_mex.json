@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "José Antonio Leaño Reyes",
   "estadio": {
     "nome": "Tres de Marzo",

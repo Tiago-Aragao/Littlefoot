@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marcelo Fernandes",
   "estadio": {
     "nome": "Moisés Lucareli",

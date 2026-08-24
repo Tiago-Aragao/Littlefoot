@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Hervé Ndombe",
   "estadio": {
     "nome": "Alphonse Massamba-Débat",

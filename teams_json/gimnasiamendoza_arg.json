@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "José María Bianco",
   "estadio": {
     "nome": "Víctor Legrotaglie",

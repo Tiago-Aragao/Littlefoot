@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Takis Roussas ",
   "estadio": {
     "nome": "Stadio Konstantinos Theodorou",

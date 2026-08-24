@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "David Carabott",
   "estadio": {
     "nome": "Ta'Qali Centenary Stadium",

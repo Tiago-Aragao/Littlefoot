@@ -3,7 +3,7 @@
   "pais": "Alemanha",
   "estado": null,
   "nivel": 19,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Urs Fischer",
   "estadio": {
     "nome": "MEWA ARENA",

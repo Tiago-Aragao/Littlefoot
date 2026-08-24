@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Santa Catarina",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rony de Aguilar",
   "estadio": {
     "nome": "Monumental do Sesi",

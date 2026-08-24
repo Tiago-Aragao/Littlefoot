@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 14,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hernán Peña",
   "estadio": {
     "nome": "Municipal de Lo Barnechea",

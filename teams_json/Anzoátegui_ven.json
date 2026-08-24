@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Charles Lopéz",
   "estadio": {
     "nome": "José Antonio Anzoátegui ",

@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Rafael Loredo",
   "estadio": {
     "nome": "Julio Armando Cobar",

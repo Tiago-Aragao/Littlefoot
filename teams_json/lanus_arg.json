@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 20,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mauricio Pellegrino",
   "estadio": {
     "nome": "La Fortaleza",

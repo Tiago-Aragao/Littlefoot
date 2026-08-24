@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mikhail Ashvetia",
   "estadio": {
     "nome": "Ramaz Shengelia Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Mato Grosso Sul",
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Matheus Hernandez",
   "estadio": {
     "nome": "Arena Coxim",

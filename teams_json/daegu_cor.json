@@ -3,7 +3,7 @@
   "pais": "Coreia do Sul",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Alexandre Gama",
   "estadio": {
     "nome": "Daegu Forest",

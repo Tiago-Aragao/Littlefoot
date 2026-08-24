@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Raúl González",
   "estadio": {
     "nome": "Patricio Lumumba",

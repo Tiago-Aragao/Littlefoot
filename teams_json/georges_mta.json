@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Keith Darmanin",
   "estadio": {
     "nome": "Cospicua Ground",

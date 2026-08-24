@@ -3,7 +3,7 @@
   "pais": "Ilhas Marshall",
   "estado": null,
   "nivel": 2,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Onmbak",
   "estadio": {
     "nome": "Majuro Stadium",

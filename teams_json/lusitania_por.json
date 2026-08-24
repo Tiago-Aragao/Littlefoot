@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jorge Pinto",
   "estadio": {
     "nome": "Lusitânia F C de Lourosa ",

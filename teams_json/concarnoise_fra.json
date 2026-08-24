@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Cloarec",
   "estadio": {
     "nome": "Guy Piriou",

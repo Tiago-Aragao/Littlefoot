@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 11,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Christian Reynaldo",
   "estadio": {
     "nome": "Estadio José Lorgio Zambrano",

@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Fernando Araujo",
   "estadio": {
     "nome": "CAP",

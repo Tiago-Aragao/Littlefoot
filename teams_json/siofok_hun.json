@@ -3,7 +3,7 @@
   "pais": "Hungria",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "István Gál",
   "estadio": {
     "nome": "Révész Utcai",

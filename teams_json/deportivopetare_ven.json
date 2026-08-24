@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Francisco Nuñez",
   "estadio": {
     "nome": "Olímpico de la UCV",

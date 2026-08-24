@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Vladimir Ivic",
   "estadio": {
     "nome": "Bloomfield Yafo",

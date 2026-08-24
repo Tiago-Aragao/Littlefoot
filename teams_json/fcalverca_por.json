@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 16,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Custódio",
   "estadio": {
     "nome": "FC Alverca",

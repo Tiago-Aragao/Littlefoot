@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Cristián Arán",
   "estadio": {
     "nome": "Fiscal de Talca",

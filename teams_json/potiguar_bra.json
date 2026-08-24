@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Norte",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Luis Miguel",
   "estadio": {
     "nome": "Nogueirão",

@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Van Loen",
   "estadio": {
     "nome": "Lokomotivi",

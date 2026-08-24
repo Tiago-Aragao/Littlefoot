@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Tyler Campbell",
   "estadio": {
     "nome": "Antigua Recreation Ground",

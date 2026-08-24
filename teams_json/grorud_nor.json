@@ -3,7 +3,7 @@
   "pais": "Noruega",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Eirik Kjönö",
   "estadio": {
     "nome": "Grorud Stadion",

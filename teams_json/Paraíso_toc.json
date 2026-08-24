@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Tocantins",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sem Tecnico",
   "estadio": {
     "nome": "José Pereira Rego ",

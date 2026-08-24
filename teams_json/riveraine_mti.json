@@ -3,7 +3,7 @@
   "pais": "Martinica",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Michelet Griffin",
   "estadio": {
     "nome": "Stade André Forestal",

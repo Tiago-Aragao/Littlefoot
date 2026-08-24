@@ -3,7 +3,7 @@
   "pais": "Montenegro",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Milorad Malovrazic",
   "estadio": {
     "nome": "Stadion Pod Vrmcem",

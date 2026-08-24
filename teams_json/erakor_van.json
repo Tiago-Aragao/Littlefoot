@@ -3,7 +3,7 @@
   "pais": "Vanuatu",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Benjamin Noel",
   "estadio": {
     "nome": "Port Vila",

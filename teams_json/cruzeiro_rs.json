@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Sul",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Fernando Agostini ",
   "estadio": {
     "nome": "Arena Cruzeiro",

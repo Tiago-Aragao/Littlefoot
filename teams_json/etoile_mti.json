@@ -3,7 +3,7 @@
   "pais": "Martinica",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Perresson Faroardus",
   "estadio": {
     "nome": "Municipal de Basse-Pointe",

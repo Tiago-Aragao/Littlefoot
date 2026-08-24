@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Maranhão",
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Lauro",
   "estadio": {
     "nome": "Estádio Adalto Cruz ",

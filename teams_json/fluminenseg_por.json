@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Gilberto Figueredo",
   "estadio": {
     "nome": "Juán Rámon Loubriel",

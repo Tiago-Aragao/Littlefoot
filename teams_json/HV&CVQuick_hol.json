@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "van der Zwaan",
   "estadio": {
     "nome": "Sportpark Nieuw Hanenburg",

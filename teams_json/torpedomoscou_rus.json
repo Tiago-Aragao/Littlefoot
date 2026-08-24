@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 14,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergey Ignashevich",
   "estadio": {
     "nome": "Eduard Streltsov",

@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Darren Abdilla",
   "estadio": {
     "nome": "Ta Qali",

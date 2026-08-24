@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Hans Eklund",
   "estadio": {
     "nome": "Falcon Alkoholfri Arena",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Santa Catarina",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Rodrigo Cascca",
   "estadio": {
     "nome": "Carlos Neves",

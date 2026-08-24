@@ -3,7 +3,7 @@
   "pais": "Canadá",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Nikola Popovic",
   "estadio": {
     "nome": "TD Place Stadium",

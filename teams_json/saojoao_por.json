@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "António Oliveira",
   "estadio": {
     "nome": "SC São João de Ver ",

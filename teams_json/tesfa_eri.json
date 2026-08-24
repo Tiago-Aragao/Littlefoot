@@ -3,7 +3,7 @@
   "pais": "Eritréia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mekonnen Zewde",
   "estadio": {
     "nome": "Municipal de Asmara",

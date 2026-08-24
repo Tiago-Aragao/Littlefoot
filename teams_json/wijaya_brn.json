@@ -3,7 +3,7 @@
   "pais": "Brunei",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ahyana Tali",
   "estadio": {
     "nome": "Bandar Seri Begawan",

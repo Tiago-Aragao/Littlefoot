@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Miguel Angel Acosta",
   "estadio": {
     "nome": "Complejo Ciudad Vinotinto",

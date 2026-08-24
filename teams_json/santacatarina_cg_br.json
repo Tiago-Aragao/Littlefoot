@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Santa Catarina",
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Caio Brito",
   "estadio": {
     "nome": "Arena Rio do Sul",

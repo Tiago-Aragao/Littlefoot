@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 24,
-  "reputacao": 4,
+  "reputacao": "Continental",
   "tecnico": "Pepe Guardiola",
   "estadio": {
     "nome": "City of Manchester",

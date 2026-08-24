@@ -3,7 +3,7 @@
   "pais": "Islândia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ólafur Jóhannesson",
   "estadio": {
     "nome": "Kaplakriki",

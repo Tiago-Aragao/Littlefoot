@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pernambuco",
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marcelo Martelotte",
   "estadio": {
     "nome": "Arruda",

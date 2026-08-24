@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 18,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ron Jans",
   "estadio": {
     "nome": "Nippert Stadium",

@@ -3,7 +3,7 @@
   "pais": "Bangladesh",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mohidul Miraz",
   "estadio": {
     "nome": "Bangabandhu Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Minas Gerais",
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Paulinho Guará ",
   "estadio": {
     "nome": "Arena do Jacaré",

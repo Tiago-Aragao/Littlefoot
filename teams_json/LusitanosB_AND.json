@@ -3,7 +3,7 @@
   "pais": "Andorra",
   "estado": null,
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Oliverio Ramirez",
   "estadio": {
     "nome": "Comunal de Aixovall",

@@ -3,7 +3,7 @@
   "pais": "Jamaica",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Rudolph Speid",
   "estadio": {
     "nome": "Stadium East",

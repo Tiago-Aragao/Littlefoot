@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Carlos Garrido",
   "estadio": {
     "nome": "Municipal",

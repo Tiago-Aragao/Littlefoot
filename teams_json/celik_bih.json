@@ -3,7 +3,7 @@
   "pais": "Bósnia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Slavisa Bozicic",
   "estadio": {
     "nome": "Bilino Polje",

@@ -3,7 +3,7 @@
   "pais": "Argélia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Billel Dziri",
   "estadio": {
     "nome": "Omar Hammadi",

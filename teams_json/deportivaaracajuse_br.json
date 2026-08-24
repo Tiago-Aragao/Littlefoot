@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Sergipe",
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Elivelton",
   "estadio": {
     "nome": "Arena Desportiva Aracaju",

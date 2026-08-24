@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio de Janeiro",
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Fernando Diniz",
   "estadio": {
     "nome": "São Januário",

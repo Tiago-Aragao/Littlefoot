@@ -3,7 +3,7 @@
   "pais": "Itália",
   "estado": null,
   "nivel": 22,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Antonio Conte",
   "estadio": {
     "nome": "San Paolo",

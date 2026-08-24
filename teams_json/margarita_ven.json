@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jose Rebolledo",
   "estadio": {
     "nome": "Ciudad Deportiva",

@@ -3,7 +3,7 @@
   "pais": "Egito",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Talaat Youssef",
   "estadio": {
     "nome": "Borg El Arab Stadium",

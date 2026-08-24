@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Lee Bowyer",
   "estadio": {
     "nome": "The Valley",

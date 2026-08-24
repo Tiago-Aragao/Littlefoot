@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Adilson Teodoro",
   "estadio": {
     "nome": "Schimitão",

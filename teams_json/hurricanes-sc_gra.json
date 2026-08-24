@@ -3,7 +3,7 @@
   "pais": "Granada",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Unog",
   "estadio": {
     "nome": "Alston George Park",

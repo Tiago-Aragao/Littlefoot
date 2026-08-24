@@ -3,7 +3,7 @@
   "pais": "Iraque",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Basim Qasim",
   "estadio": {
     "nome": "Al-Shaab Stadium",

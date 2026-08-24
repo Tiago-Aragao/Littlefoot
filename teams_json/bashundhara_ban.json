@@ -3,7 +3,7 @@
   "pais": "Bangladesh",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Óscar Bruzón ",
   "estadio": {
     "nome": "Bangabandhu Stadium",

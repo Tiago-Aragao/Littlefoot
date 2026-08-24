@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraíba",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Tazinho",
   "estadio": {
     "nome": "Almeidão",

@@ -3,7 +3,7 @@
   "pais": "Costa do Marfim",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Bassiriki Diabaté",
   "estadio": {
     "nome": "Robert Champroux",

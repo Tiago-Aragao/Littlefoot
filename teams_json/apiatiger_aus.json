@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Daniel Cummins",
   "estadio": {
     "nome": "Leichhardt Oval",

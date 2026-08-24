@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Francisco Ortiz",
   "estadio": {
     "nome": "Rio Piedras Municipal",

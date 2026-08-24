@@ -3,7 +3,7 @@
   "pais": "Hungria",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Balázs Beko",
   "estadio": {
     "nome": "Batthyány Sportpálya",

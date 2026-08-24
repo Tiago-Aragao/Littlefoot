@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pedro Andrade",
   "estadio": {
     "nome": "Complexo Desportivo da Camacha",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Givanildo Sales",
   "estadio": {
     "nome": "Adauto Moraes",

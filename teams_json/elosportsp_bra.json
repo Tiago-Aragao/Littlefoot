@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Luiz Carlos Vilela",
   "estadio": {
     "nome": "José Sidney da Cunha ",

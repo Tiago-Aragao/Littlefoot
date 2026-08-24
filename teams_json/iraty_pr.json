@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marcelo Buarque",
   "estadio": {
     "nome": "Emílio Gomes",

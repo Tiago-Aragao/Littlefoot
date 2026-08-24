@@ -3,7 +3,7 @@
   "pais": "Alemanha",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Pál Dárdai",
   "estadio": {
     "nome": "Olympiastadion",

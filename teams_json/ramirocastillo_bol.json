@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Ismael Pardo",
   "estadio": {
     "nome": "Estádio RC",

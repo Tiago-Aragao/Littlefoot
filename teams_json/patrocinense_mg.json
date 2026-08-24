@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Minas Gerais",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Thiago Oliveira",
   "estadio": {
     "nome": "Pedro Nascimento",

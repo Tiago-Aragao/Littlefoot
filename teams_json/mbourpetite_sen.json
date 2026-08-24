@@ -3,7 +3,7 @@
   "pais": "Senegal",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mohamed Seydina",
   "estadio": {
     "nome": "Mbour Stadium",

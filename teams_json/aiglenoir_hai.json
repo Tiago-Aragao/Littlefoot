@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Emmanuel Eliacin",
   "estadio": {
     "nome": "Sylvio Cartor",

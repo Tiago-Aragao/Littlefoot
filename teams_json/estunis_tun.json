@@ -3,7 +3,7 @@
   "pais": "Tunísia",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Nabil Maaloul",
   "estadio": {
     "nome": "Municipal",

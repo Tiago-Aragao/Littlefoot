@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Maranhão",
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Eriberto Oliveira",
   "estadio": {
     "nome": "Nhozinho Santos",

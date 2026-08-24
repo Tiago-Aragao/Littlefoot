@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 7,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ricardo Chéu",
   "estadio": {
     "nome": "SC Freamunde",

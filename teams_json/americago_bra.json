@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Goiás",
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Humberto José",
   "estadio": {
     "nome": "João Vilela",

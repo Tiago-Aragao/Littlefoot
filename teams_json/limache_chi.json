@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jeremias Viale",
   "estadio": {
     "nome": "Gustavo Ocaranza",

@@ -3,7 +3,7 @@
   "pais": "Nova Zelândia",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Stu Jacobs",
   "estadio": {
     "nome": "Wakefield Park",

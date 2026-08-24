@@ -3,7 +3,7 @@
   "pais": "Panamá",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "José Chiari",
   "estadio": {
     "nome": "Maracaná del Panama",

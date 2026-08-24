@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Miguel Miranda",
   "estadio": {
     "nome": "Municipal de la Juventud",

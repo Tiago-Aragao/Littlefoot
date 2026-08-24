@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guilherme Alves",
   "estadio": {
     "nome": "Dr. Alfredo de Castilho",

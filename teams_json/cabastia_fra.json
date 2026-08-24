@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jean-André Ottaviani",
   "estadio": {
     "nome": "Complexe Sportif de Borgo",

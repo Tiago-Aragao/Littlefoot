@@ -3,7 +3,7 @@
   "pais": "Bélgica",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Christian Bracconi",
   "estadio": {
     "nome": "Stade Yvan Georges",

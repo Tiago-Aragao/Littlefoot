@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Felix Naim",
   "estadio": {
     "nome": "Afula Illit Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pernambuco",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Edmilson Santos",
   "estadio": {
     "nome": "Antônio Inácio",

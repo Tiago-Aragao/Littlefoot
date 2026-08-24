@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 19,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Rafael Guanaes",
   "estadio": {
     "nome": "José Maia",

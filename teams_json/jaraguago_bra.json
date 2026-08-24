@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Goiás",
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Zé Roberto",
   "estadio": {
     "nome": "Amintas de Freitas",

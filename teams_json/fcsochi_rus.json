@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 17,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vladimir Fedotov",
   "estadio": {
     "nome": "Olympic Stadium",

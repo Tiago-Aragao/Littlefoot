@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Alagoas",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Miguel Eduardo",
   "estadio": {
     "nome": "Manoel Ferreira",

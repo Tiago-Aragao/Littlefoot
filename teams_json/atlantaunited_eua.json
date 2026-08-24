@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Alexandre Pato",
   "estadio": {
     "nome": "Mercedes-Benz St.",

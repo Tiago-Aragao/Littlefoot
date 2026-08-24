@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Nuno Espírito Santo",
   "estadio": {
     "nome": "The Boleyn",

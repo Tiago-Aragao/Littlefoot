@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Norte",
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "João Brigatti",
   "estadio": {
     "nome": "Arena América",

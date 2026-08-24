@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Jhonny Ferreira",
   "estadio": {
     "nome": "Monumental de Maturín",

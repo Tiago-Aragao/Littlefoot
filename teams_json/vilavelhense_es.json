@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Espírito Santo",
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Orlando da Hora",
   "estadio": {
     "nome": "Manoel Oliveira",

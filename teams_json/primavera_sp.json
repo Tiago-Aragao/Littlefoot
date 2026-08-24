@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Rafael Marques",
   "estadio": {
     "nome": "Ítalo Mário Limongi",

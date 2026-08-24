@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Warren Moon",
   "estadio": {
     "nome": "Dolphin Oval",

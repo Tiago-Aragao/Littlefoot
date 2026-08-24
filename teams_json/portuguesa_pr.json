@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Knário",
   "estadio": {
     "nome": "Olímpio Barreto",

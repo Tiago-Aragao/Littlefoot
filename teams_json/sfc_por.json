@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Alcaraz Montenegro",
   "estadio": {
     "nome": "Aguadilla Municipal",

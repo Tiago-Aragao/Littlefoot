@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Giorgi Nemsadze",
   "estadio": {
     "nome": "Tengiz Burjanadze Stadium",

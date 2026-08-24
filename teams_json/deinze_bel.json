@@ -3,7 +3,7 @@
   "pais": "Bélgica",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Regi Van Acker",
   "estadio": {
     "nome": "Burgemeester Van de Wiele",

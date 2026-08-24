@@ -3,7 +3,7 @@
   "pais": "Palestina",
   "estado": null,
   "nivel": 8,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Raed Assaf",
   "estadio": {
     "nome": "Faisal Al-Husseini International",

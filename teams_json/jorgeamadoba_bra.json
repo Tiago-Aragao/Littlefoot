@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Paulo",
   "estadio": {
     "nome": "Estádio Mário Pessoa",

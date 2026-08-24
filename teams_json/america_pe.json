@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pernambuco",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Levi Gomes",
   "estadio": {
     "nome": "Ademir Cunha",

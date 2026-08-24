@@ -3,7 +3,7 @@
   "pais": "Costa Rica",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Luis Marin",
   "estadio": {
     "nome": "Carlos Ugalde",

@@ -3,7 +3,7 @@
   "pais": "Comores",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Said Mohamed",
   "estadio": {
     "nome": "Said Mohamed Cheikh",

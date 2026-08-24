@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 1,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Eduardo Fentanes",
   "estadio": {
     "nome": "Corona",

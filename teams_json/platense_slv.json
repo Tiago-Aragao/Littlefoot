@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Eduardo Lara",
   "estadio": {
     "nome": "Panorámico de Zacatecoluca",

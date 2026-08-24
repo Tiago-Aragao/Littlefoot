@@ -3,7 +3,7 @@
   "pais": "Armênia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Vardan Bichakhchyan",
   "estadio": {
     "nome": "Avan Academy",

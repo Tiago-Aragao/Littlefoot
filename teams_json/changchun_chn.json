@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jin'gang Chen",
   "estadio": {
     "nome": "Changchun City Stadium",

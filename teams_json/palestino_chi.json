@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Luis Sierra",
   "estadio": {
     "nome": "La Cisterna",

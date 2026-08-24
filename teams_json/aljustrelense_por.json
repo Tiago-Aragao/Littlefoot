@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vitor Rodrigues",
   "estadio": {
     "nome": "Municipal de Aljustrel ",

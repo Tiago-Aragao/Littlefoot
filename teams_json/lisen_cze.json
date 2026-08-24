@@ -3,7 +3,7 @@
   "pais": "República Tcheca",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Miloslav Machalek",
   "estadio": {
     "nome": "Stadion SK Lisen",

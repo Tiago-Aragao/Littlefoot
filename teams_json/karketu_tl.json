@@ -3,7 +3,7 @@
   "pais": "Timor-Leste",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Antonio Tomothio",
   "estadio": {
     "nome": "Díli Stadium",

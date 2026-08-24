@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "José González",
   "estadio": {
     "nome": "Wuhuan Sports Center Stadium",

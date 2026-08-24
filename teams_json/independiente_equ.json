@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 19,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Martín Anselmi",
   "estadio": {
     "nome": "Rumiñahui",

@@ -3,7 +3,7 @@
   "pais": "Kuwait",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Abdulrahman Al-Otaibi",
   "estadio": {
     "nome": "Al Sahel Stadium",

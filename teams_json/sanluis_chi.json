@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mauricio Riffo",
   "estadio": {
     "nome": "Municipal Lucio Fariña Fernández",

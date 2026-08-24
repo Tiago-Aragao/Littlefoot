@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Benjamín Elvira",
   "estadio": {
     "nome": "Antonio Maceo",

@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Freddy Bolivar",
   "estadio": {
     "nome": "Estadio Hernando Siles",

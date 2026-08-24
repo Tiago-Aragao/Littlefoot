@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amazonas",
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ruy Scarpino",
   "estadio": {
     "nome": "Colina",

@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Gabriel Pereyra",
   "estadio": {
     "nome": "Héroe de Nacozari",

@@ -3,7 +3,7 @@
   "pais": "Burundi",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jimmy Ndayizeye",
   "estadio": {
     "nome": "Stade Ingoma",

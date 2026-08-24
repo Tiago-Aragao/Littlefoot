@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "André Barros",
   "estadio": {
     "nome": "Adauto de Moraes",

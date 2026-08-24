@@ -3,7 +3,7 @@
   "pais": "Chade",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Liuhaevilli",
   "estadio": {
     "nome": "Toumai Stadium",

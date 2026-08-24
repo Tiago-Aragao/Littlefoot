@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 1,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marcos Paulo ",
   "estadio": {
     "nome": "Prefeito José Liberatti",

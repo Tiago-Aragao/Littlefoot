@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 15,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marcelo Vivas",
   "estadio": {
     "nome": "Ciudad de Cumaná",

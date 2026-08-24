@@ -3,7 +3,7 @@
   "pais": "Luxemburgo",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dan Theis",
   "estadio": {
     "nome": "Stade Alphonse Theis",

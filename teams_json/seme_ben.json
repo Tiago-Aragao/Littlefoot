@@ -3,7 +3,7 @@
   "pais": "Benin",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Usgrim",
   "estadio": {
     "nome": "Porto Novo",

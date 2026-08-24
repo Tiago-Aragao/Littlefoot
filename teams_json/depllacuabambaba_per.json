@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Néstor Otero",
   "estadio": {
     "nome": "Germán Contreras Jara",

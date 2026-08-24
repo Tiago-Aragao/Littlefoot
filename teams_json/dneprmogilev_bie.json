@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ivan Bionchik",
   "estadio": {
     "nome": "Spartak",

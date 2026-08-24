@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Tuca Guimarães",
   "estadio": {
     "nome": "Nicolau Alayon",

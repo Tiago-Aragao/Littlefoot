@@ -3,7 +3,7 @@
   "pais": "Costa do Marfim",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Firmin Koffi",
   "estadio": {
     "nome": "Henri Konan Bédié",

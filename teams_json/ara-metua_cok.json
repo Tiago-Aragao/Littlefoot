@@ -3,7 +3,7 @@
   "pais": "Ilhas Cook",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Suvega",
   "estadio": {
     "nome": "CIFA Field",

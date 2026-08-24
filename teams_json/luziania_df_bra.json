@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Distrito Federal",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jailton Vieira",
   "estadio": {
     "nome": "Serra do Lago",

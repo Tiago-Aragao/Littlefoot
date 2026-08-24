@@ -3,7 +3,7 @@
   "pais": "Bósnia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Vule Trivunovic",
   "estadio": {
     "nome": "Podavala",

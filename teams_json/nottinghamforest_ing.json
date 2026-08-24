@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 19,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Vitor Pereira",
   "estadio": {
     "nome": "City Ground",

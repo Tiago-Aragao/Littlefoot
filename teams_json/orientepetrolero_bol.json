@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ronald Arana",
   "estadio": {
     "nome": "Ramón Santa Cruz",

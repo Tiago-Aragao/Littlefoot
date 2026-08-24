@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Savvas Pantelidis",
   "estadio": {
     "nome": "Stadio Peristeriou",

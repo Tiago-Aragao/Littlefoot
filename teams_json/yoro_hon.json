@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Airo Reyes",
   "estadio": {
     "nome": "Municipal de Yoro",

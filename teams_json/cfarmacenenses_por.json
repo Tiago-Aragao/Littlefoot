@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rui Maside",
   "estadio": {
     "nome": "Municipal de Armação de Pêra",

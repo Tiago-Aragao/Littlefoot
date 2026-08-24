@@ -3,7 +3,7 @@
   "pais": "Nicaragua",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Leonidas Rodriguez",
   "estadio": {
     "nome": "Alejandro Ramos Turcio",

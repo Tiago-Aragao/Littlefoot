@@ -3,7 +3,7 @@
   "pais": "País de Gales",
   "estado": null,
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alfredo Moreira",
   "estadio": {
     "nome": "Estádio Aquiles de Oliveira",

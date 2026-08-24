@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 19,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Víctor Vucetich",
   "estadio": {
     "nome": "BBVA Bancomer",

@@ -3,7 +3,7 @@
   "pais": "Canadá",
   "estado": null,
   "nivel": 3,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Tony De Thomasis",
   "estadio": {
     "nome": "St. Joan of Arc Turf Field",

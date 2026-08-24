@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 1,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Thierry Henry",
   "estadio": {
     "nome": "Saputo Stadium",

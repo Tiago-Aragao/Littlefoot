@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ian Cazalla",
   "estadio": {
     "nome": "Estadio Fabián Tintilay",

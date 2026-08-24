@@ -3,7 +3,7 @@
   "pais": "Colômbia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Diego Corredor",
   "estadio": {
     "nome": "Municipal de Ipiales",

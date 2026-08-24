@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Sergipe",
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Evandro Guimarães",
   "estadio": {
     "nome": "Etelvino Mendonça",

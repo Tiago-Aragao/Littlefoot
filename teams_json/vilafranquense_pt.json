@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Filipe Gouveia",
   "estadio": {
     "nome": "Estádio Municipal de Rio Maior",

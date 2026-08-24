@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Salvador Correa",
   "estadio": {
     "nome": "Simeón Magaña",

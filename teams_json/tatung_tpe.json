@@ -3,7 +3,7 @@
   "pais": "Taipé Chinês",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Chang Wu-yeh",
   "estadio": {
     "nome": "Taipei Municipal Stadium",

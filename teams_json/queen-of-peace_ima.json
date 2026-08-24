@@ -3,7 +3,7 @@
   "pais": "Ilhas Marshall",
   "estado": null,
   "nivel": 3,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Worer",
   "estadio": {
     "nome": "Majuro Stadium",

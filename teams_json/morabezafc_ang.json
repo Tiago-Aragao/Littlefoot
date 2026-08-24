@@ -3,7 +3,7 @@
   "pais": "Angola",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alfredo Moreira",
   "estadio": {
     "nome": "Estádio Aquiles de Oliveira",

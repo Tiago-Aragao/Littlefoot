@@ -3,7 +3,7 @@
   "pais": "Ilhas Cook",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Terry Paniani",
   "estadio": {
     "nome": "Nikao Field, Avarua",

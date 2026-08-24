@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ahmed Refa'at",
   "estadio": {
     "nome": "Bahrain National Stadium",

@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Julio Roberto Gómez",
   "estadio": {
     "nome": "San Miguel Dueñas",

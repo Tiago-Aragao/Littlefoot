@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Sul",
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Gerson Gusmão",
   "estadio": {
     "nome": "Centenário",

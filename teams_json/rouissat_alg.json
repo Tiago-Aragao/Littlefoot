@@ -3,7 +3,7 @@
   "pais": "Argélia",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Hassen Ghoula",
   "estadio": {
     "nome": "Stade Communal Rouisset",

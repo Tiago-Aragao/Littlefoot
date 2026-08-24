@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Lee Sterry",
   "estadio": {
     "nome": "Seymour Shaw Park",

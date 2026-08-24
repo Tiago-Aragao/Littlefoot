@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Aristoteles Ramos",
   "estadio": {
     "nome": "Aliardo Soria Pérez",

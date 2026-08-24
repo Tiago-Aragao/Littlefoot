@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraíba",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Luciano Silva",
   "estadio": {
     "nome": "Sílvio Porto",

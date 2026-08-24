@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Abdelhak Ketami",
   "estadio": {
     "nome": "Complexe Sportif de Fès",

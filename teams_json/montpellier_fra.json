@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Michel Zakarian",
   "estadio": {
     "nome": "Stade de la Mosson",

@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Georgios Lyronis",
   "estadio": {
     "nome": "Neas Alikarnassou",

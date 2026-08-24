@@ -3,7 +3,7 @@
   "pais": "Africa do Sul",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Arthur Zwane",
   "estadio": {
     "nome": "FNB Stadium",

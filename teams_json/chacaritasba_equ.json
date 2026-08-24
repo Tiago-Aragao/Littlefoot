@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Óscar Pacheco",
   "estadio": {
     "nome": "Ciudad De Pelileo",

@@ -3,7 +3,7 @@
   "pais": "Iraque",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Momen Soliman",
   "estadio": {
     "nome": "Al-Shaab",

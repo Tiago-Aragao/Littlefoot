@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraíba",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paulo Silva",
   "estadio": {
     "nome": "Antônio Mariz",

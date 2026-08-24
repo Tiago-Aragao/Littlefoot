@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Hernán Cristante",
   "estadio": {
     "nome": "Nemesio Díez",

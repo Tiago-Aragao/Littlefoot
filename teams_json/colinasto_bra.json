@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Tocantins",
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paulo Costa",
   "estadio": {
     "nome": "Concessão Municipal",

@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Óscar Cano",
   "estadio": {
     "nome": "Nuevo Vivero",

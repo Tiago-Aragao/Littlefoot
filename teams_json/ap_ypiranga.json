@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amapá",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vitor Jaime",
   "estadio": {
     "nome": "Olímpico Colosso da Lagoa",

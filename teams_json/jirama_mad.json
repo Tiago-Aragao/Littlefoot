@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Francis Rakotondramanana",
   "estadio": {
     "nome": "Fianarantsoa",

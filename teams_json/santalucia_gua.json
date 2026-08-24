@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Francisco Melgar",
   "estadio": {
     "nome": "Mun. Cotzumalguapa",

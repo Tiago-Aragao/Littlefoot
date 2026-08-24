@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Ceará",
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Haroldo Maciel",
   "estadio": {
     "nome": "Tarcisão",

@@ -3,7 +3,7 @@
   "pais": "Macau",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Hoi Veng Hou",
   "estadio": {
     "nome": "Campo Desportivo",

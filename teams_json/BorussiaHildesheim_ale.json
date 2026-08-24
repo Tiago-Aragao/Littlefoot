@@ -3,7 +3,7 @@
   "pais": "Alemanha",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Block",
   "estadio": {
     "nome": "Friedrich-Ebert-Stadion",

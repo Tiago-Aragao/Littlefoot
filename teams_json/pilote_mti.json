@@ -3,7 +3,7 @@
   "pais": "Martinica",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Marcel Pujar",
   "estadio": {
     "nome": "Stade Alfred Marie-Jeanne",

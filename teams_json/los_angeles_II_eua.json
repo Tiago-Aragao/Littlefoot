@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mike Muñoz",
   "estadio": {
     "nome": "Track and Field Stadium",

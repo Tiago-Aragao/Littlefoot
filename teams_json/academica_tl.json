@@ -3,7 +3,7 @@
   "pais": "Timor-Leste",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paulo Rossi",
   "estadio": {
     "nome": "Díli Stadium",

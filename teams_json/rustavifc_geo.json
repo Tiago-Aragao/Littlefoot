@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Varlam Kilasonia",
   "estadio": {
     "nome": "Mikheil Meskhis Sakhelobis",

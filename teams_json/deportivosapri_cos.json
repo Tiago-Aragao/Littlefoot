@@ -3,7 +3,7 @@
   "pais": "Costa Rica",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jeaustin Campos",
   "estadio": {
     "nome": "Ricardo Saprissa",

@@ -3,7 +3,7 @@
   "pais": "Libano",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Emile Rustom",
   "estadio": {
     "nome": "Al Safa SC Stadium",

@@ -3,7 +3,7 @@
   "pais": "Paraguai",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Cristóbal Cubilla",
   "estadio": {
     "nome": "Atanacio Villagra",

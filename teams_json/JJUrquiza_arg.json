@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "de la Fuente",
   "estadio": {
     "nome": "Ramón Roque Martín",

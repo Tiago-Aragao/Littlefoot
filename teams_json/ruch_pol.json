@@ -3,7 +3,7 @@
   "pais": "Polônia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Lukasz Bereta",
   "estadio": {
     "nome": "Ruchu Chorzów (przy Cichej)",

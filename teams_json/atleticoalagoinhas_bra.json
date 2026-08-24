@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Estevam Soares",
   "estadio": {
     "nome": "Antônio Carneiro",

@@ -3,7 +3,7 @@
   "pais": "República Tcheca",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Erich Brabec",
   "estadio": {
     "nome": "Kollárova Ulice",

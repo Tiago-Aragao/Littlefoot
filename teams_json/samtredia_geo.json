@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Kakhaber Kacharava",
   "estadio": {
     "nome": "Evgrapi Shevardnadze Stadium",

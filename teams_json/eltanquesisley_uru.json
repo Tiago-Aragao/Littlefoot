@@ -3,7 +3,7 @@
   "pais": "Uruguai",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Julio Cesar Antunes",
   "estadio": {
     "nome": "Victor Della Valle",

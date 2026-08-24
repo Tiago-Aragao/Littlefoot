@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Todisaina",
   "estadio": {
     "nome": "Stade Alexandre Rabemananjara",

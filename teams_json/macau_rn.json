@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Norte",
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "João Oliveira",
   "estadio": {
     "nome": "Walter Bichão",

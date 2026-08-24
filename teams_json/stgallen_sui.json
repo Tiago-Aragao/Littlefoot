@@ -3,7 +3,7 @@
   "pais": "Suiça",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Peter Zeidler",
   "estadio": {
     "nome": "AFG Arena",

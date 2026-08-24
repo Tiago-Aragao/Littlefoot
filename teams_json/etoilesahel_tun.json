@@ -3,7 +3,7 @@
   "pais": "Tunísia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ikbal Rouatbi",
   "estadio": {
     "nome": "Stade Olympique",

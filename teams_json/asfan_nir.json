@@ -3,7 +3,7 @@
   "pais": "Níger",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Colonel Djibrilla",
   "estadio": {
     "nome": "Général Seyni Kountché Stadion",

@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 18,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Paulo Fonseca",
   "estadio": {
     "nome": "De Gerland",

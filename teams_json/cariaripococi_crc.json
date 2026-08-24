@@ -3,7 +3,7 @@
   "pais": "Costa Rica",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jorge Vargas",
   "estadio": {
     "nome": "Comunal de Cariari",

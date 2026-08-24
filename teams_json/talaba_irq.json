@@ -3,7 +3,7 @@
   "pais": "Iraque",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ahmed Khalaf",
   "estadio": {
     "nome": "Al-Shaab Stadium",

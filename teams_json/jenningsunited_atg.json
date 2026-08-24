@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Héctor Santamaría",
   "estadio": {
     "nome": "Antigua Recreation Ground",

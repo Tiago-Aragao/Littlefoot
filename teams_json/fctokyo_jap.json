@@ -3,7 +3,7 @@
   "pais": "Japão",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Kenta Hasegawa",
   "estadio": {
     "nome": "Ajinomoto Stadium",

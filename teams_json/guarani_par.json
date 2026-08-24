@@ -3,7 +3,7 @@
   "pais": "Paraguai",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Gustavo Costas",
   "estadio": {
     "nome": "Rogerio Livieres",

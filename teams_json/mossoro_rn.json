@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Norte",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Edinho Cardoso",
   "estadio": {
     "nome": "Nogueirão",

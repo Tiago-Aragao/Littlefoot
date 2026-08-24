@@ -3,7 +3,7 @@
   "pais": "Coreia do Norte",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ri Jong Man",
   "estadio": {
     "nome": "Kim II-Sung Stadium",

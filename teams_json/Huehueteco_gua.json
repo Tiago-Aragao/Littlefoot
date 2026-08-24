@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Gilberto Yearwood",
   "estadio": {
     "nome": "Estadio Los Cuchumatanes",

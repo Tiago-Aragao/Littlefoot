@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Fabricio Benítez",
   "estadio": {
     "nome": "David Cordón Hichos",

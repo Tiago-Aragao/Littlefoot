@@ -3,7 +3,7 @@
   "pais": "Colômbia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Eduardo Lara",
   "estadio": {
     "nome": "Palogrande",

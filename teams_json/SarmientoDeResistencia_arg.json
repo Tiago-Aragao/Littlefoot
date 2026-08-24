@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Valdez",
   "estadio": {
     "nome": "Centenario del Club Atlético Sarmiento",

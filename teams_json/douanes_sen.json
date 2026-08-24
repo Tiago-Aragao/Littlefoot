@@ -3,7 +3,7 @@
   "pais": "Senegal",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Roger Gomis",
   "estadio": {
     "nome": "Demba Diop",

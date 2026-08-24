@@ -3,7 +3,7 @@
   "pais": "República Tcheca",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jindrich Trpisovsky",
   "estadio": {
     "nome": "Eden Arena",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rondonia",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Everton Goiano",
   "estadio": {
     "nome": "Valerião",

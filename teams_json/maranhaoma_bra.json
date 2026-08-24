@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Maranhão",
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Lucas Andrade",
   "estadio": {
     "nome": "Municipal",

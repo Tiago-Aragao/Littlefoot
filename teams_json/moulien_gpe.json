@@ -3,7 +3,7 @@
   "pais": "Guadalupe",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Richard Albert",
   "estadio": {
     "nome": "Stade Jacques Pontrémy",

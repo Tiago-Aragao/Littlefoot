@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "David Thélémaque",
   "estadio": {
     "nome": "Parc Levelt",

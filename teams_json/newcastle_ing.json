@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 21,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Eddie Howe",
   "estadio": {
     "nome": "St. James' Park",

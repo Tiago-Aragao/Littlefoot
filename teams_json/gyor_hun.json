@@ -3,7 +3,7 @@
   "pais": "Hungria",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Elemér Kondás",
   "estadio": {
     "nome": "ETO Park",

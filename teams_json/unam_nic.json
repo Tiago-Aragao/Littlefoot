@@ -3,7 +3,7 @@
   "pais": "Nicaragua",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Edward Urroz",
   "estadio": {
     "nome": "Nacional de UNAM",

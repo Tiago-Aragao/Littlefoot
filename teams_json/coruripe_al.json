@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Alagoas",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Claudio Robinson",
   "estadio": {
     "nome": "Gerson Amaral",

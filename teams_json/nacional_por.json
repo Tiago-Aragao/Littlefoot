@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Tiago Margarido",
   "estadio": {
     "nome": "Estádio da Madeira",

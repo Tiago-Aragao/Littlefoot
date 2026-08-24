@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Piauí",
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Marcão",
   "estadio": {
     "nome": "Ninho do Carcará",

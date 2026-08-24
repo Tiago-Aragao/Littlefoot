@@ -3,7 +3,7 @@
   "pais": "País de Gales",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Colin Caton",
   "estadio": {
     "nome": "Maes Tegid",

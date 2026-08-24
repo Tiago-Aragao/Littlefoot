@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pernambuco",
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Leonardo",
   "estadio": {
     "nome": "Cordeirão",

@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dmitri Vyazmikin",
   "estadio": {
     "nome": "Torpedo Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Goiás",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Arthur Neto",
   "estadio": {
     "nome": "Olímpico",

@@ -3,7 +3,7 @@
   "pais": "Guam",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Dustin Chin",
   "estadio": {
     "nome": "GFA Center Lower Field",

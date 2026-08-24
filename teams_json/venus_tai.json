@@ -3,7 +3,7 @@
   "pais": "Taiti",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Samuel Garcia",
   "estadio": {
     "nome": "Municipal",

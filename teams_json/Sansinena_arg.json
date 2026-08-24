@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jorge Espinosa",
   "estadio": {
     "nome": "Luis Molina",

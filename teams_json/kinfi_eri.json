@@ -3,7 +3,7 @@
   "pais": "Eritréia",
   "estado": null,
   "nivel": 4,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Twirtore Amsterded",
   "estadio": {
     "nome": "Cicero Stadium",

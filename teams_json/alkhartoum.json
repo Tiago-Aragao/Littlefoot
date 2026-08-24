@@ -3,7 +3,7 @@
   "pais": "Sudão",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "James Appiah",
   "estadio": {
     "nome": "Khartoum Stadium",

@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 16,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Andries Jonker",
   "estadio": {
     "nome": "Rabobank IJmond",

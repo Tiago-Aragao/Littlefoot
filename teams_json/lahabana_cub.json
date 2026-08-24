@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jesus Tosca",
   "estadio": {
     "nome": "La Polar",

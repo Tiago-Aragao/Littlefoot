@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Sul",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marcelo Moreira",
   "estadio": {
     "nome": "Arthur Lawson",

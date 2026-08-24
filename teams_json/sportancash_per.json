@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paolo Maldonado",
   "estadio": {
     "nome": "Rosas Pampa",

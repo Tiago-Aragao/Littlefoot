@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 4,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mark Cooper",
   "estadio": {
     "nome": "The New Lawn",

@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Raúl Oliveira",
   "estadio": {
     "nome": "Estádio de Ribes ",

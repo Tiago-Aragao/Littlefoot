@@ -3,7 +3,7 @@
   "pais": "Romênia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alexandru Pelici",
   "estadio": {
     "nome": "Municipal Sibiu",

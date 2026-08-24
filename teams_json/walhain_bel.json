@@ -3,7 +3,7 @@
   "pais": "Bélgica",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Thierry Blindenbergh",
   "estadio": {
     "nome": "Stade des Boscailles",

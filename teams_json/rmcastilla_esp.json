@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 11,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Santiago Solari",
   "estadio": {
     "nome": "Alfredo Di Stéfano",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Acre",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Bruno Monteiro",
   "estadio": {
     "nome": "Arena Acreana",

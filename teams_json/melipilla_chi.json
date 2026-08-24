@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Jorge Contreras",
   "estadio": {
     "nome": "Municipal Roberto Bravo Santibáñez",

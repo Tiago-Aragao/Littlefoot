@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Juan Pedro",
   "estadio": {
     "nome": "Grand Stade de Tanger",

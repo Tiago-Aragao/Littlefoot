@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Tocantins",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Fernandão",
   "estadio": {
     "nome": "Delfinão",

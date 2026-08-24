@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Ceará",
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Valdo",
   "estadio": {
     "nome": "Romeirão",

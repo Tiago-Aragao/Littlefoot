@@ -3,7 +3,7 @@
   "pais": "Palestina",
   "estado": null,
   "nivel": 5,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mohammed Stinhei",
   "estadio": {
     "nome": "Faisal Al-Husseini International",

@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rickard Johansson",
   "estadio": {
     "nome": "Kopparvallen",

@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Khariton Chkhartishvili",
   "estadio": {
     "nome": "Tsentraluri Stadioni",

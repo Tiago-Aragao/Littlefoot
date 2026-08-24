@@ -3,7 +3,7 @@
   "pais": "Costa do Marfim",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Amer Salman",
   "estadio": {
     "nome": "Faisal Al-Husseini International",

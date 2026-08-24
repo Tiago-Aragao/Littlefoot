@@ -3,7 +3,7 @@
   "pais": "Martinica",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Guy Michel Nisas",
   "estadio": {
     "nome": "Stade Henri Murano",

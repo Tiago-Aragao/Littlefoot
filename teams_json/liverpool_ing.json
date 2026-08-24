@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 23,
-  "reputacao": 5,
+  "reputacao": "Mundial",
   "tecnico": "Arne Slot",
   "estadio": {
     "nome": "Anfield",

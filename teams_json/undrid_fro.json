@@ -3,7 +3,7 @@
   "pais": "Ilhas Faroe",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Arnar Lognberg",
   "estadio": {
     "nome": "Gundadalur Niðari vøllur",

@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Nick Hegarty",
   "estadio": {
     "nome": "ABD Stadium",

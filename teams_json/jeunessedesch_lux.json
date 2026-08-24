@@ -3,7 +3,7 @@
   "pais": "Luxemburgo",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Nicolas Huysman",
   "estadio": {
     "nome": "Stade de la Frontière",

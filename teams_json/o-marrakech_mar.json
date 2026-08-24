@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 7,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mohamed El Maleh ",
   "estadio": {
     "nome": "Stadium Marrakech",

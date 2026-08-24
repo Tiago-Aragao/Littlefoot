@@ -3,7 +3,7 @@
   "pais": "Alemanha",
   "estado": null,
   "nivel": 16,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Frank Schmidt",
   "estadio": {
     "nome": "Voith Arena",

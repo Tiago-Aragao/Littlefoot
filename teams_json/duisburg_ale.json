@@ -3,7 +3,7 @@
   "pais": "Alemanha",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Torsten Lieberknecht",
   "estadio": {
     "nome": "Schauinsland-Reisen-Arena",

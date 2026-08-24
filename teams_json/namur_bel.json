@@ -3,7 +3,7 @@
   "pais": "Bélgica",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Pascal Bairamjam",
   "estadio": {
     "nome": "Communal des Bas-Prés",

@@ -3,7 +3,7 @@
   "pais": "Mali",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dominique Jean",
   "estadio": {
     "nome": "Complexe Sportif de Trianon",

@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "René Curaz",
   "estadio": {
     "nome": "Municipal de la Pintana",

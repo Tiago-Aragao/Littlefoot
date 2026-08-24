@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pará",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Júnior Amorim",
   "estadio": {
     "nome": "Abelardo Conduru",

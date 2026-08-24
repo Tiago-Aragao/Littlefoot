@@ -3,7 +3,7 @@
   "pais": "Curaçao",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Richenel Lourens",
   "estadio": {
     "nome": "Antoine Maduro",

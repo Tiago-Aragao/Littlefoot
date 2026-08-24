@@ -3,7 +3,7 @@
   "pais": "Santa Lúcia",
   "estado": null,
   "nivel": 1,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alfredo Moreira",
   "estadio": {
     "nome": "Estádio Aquiles de Oliveira",

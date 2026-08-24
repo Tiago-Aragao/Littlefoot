@@ -3,7 +3,7 @@
   "pais": "Ilhas Salomão",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Luke Elroi",
   "estadio": {
     "nome": "Hana Stadium",

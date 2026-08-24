@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 17,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Carlos Compagnucci",
   "estadio": {
     "nome": "Monumental",

@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 18,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guillermo Duró",
   "estadio": {
     "nome": "Don León Kolbovsky",

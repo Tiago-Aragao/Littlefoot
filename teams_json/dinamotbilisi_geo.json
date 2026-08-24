@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Giorgi Chiabrishvili",
   "estadio": {
     "nome": "Boris Paichadze",

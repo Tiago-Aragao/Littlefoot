@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Roberto Aguirre",
   "estadio": {
     "nome": "Estadio Las Callejas",

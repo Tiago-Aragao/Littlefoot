@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Wilhelm Wahlmüller",
   "estadio": {
     "nome": "EK Kammerhofer-Arena",

@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 7,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Luis Blanco",
   "estadio": {
     "nome": "Comunal de Aixovall",

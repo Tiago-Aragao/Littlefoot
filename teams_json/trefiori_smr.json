@@ -3,7 +3,7 @@
   "pais": "San Marino",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Luca Borgagni",
   "estadio": {
     "nome": "Montecchio",

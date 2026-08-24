@@ -3,7 +3,7 @@
   "pais": "Dinamarca",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Lars Olsen",
   "estadio": {
     "nome": "Blue Water Arena",

@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vladimir Golmak",
   "estadio": {
     "nome": "Stadyen Atlant",

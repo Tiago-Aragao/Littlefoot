@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Konstantin Olenev",
   "estadio": {
     "nome": "Stadion Rossiya",

@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Gustavo Euceda",
   "estadio": {
     "nome": "Municipal de Tela",

@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Giaccone",
   "estadio": {
     "nome": "Oscar Carlos Boero",

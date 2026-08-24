@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Danny Smith",
   "estadio": {
     "nome": "Antigua Recreation Ground",

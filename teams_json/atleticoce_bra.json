@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Ceará",
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Roberto Carlos",
   "estadio": {
     "nome": "Antônio Cruz",

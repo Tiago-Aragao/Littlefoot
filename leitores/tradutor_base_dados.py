@@ -15,6 +15,15 @@ dict_titularidade = {
     1: "Titular"
 }
 
+dict_reputacao = {
+    0: "Municipal",
+    1: "Estadual",
+    2: "Regional",
+    3: "Nacional",
+    4: "Continental",
+    5: "Mundial"
+}
+
 # Dicionário de Estados
 dict_estados = {
     0: "Acre", 1: "Alagoas", 2: "Amazonas", 3: "Amapá", 4: "Bahia", 

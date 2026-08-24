@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Nelson Cossio",
   "estadio": {
     "nome": "Parque Schott",

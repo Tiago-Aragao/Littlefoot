@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraíba",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dudu Sales",
   "estadio": {
     "nome": "Perpelão",

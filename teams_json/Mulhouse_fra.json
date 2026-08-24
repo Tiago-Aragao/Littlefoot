@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Tosi",
   "estadio": {
     "nome": "de l'Ill",

@@ -3,7 +3,7 @@
   "pais": "Hong Kong",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ka-Yiu Pau",
   "estadio": {
     "nome": "Hammer Hill Road Sports Ground",

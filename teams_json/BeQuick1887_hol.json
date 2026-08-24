@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Waalderbos",
   "estadio": {
     "nome": "Stadion de Esserberg",

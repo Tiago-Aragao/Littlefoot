@@ -3,7 +3,7 @@
   "pais": "Hong Kong",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Tam Wai Tong",
   "estadio": {
     "nome": "Kowloon Tsai Park",

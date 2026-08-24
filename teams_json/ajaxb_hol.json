@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mitchell van der Gaag",
   "estadio": {
     "nome": "Sportpark De Toekomst",

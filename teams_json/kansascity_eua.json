@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Peter Vermes ",
   "estadio": {
     "nome": "Children’s Mercy Park",

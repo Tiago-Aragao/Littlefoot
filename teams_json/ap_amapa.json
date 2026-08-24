@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amapá",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Netinho",
   "estadio": {
     "nome": "Zerão",

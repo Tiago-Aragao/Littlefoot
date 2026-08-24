@@ -3,7 +3,7 @@
   "pais": "Coreia do Sul",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Tae-Hong Lee",
   "estadio": {
     "nome": "Gyeongju Citizen Stadium",

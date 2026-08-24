@@ -3,7 +3,7 @@
   "pais": "Guiné",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pitta",
   "estadio": {
     "nome": "Pantulfo",

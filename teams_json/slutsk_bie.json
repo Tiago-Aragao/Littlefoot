@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Vitali Pavlov",
   "estadio": {
     "nome": "Gorodskoy",

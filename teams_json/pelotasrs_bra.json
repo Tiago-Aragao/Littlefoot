@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Sul",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ricardo Colbachini",
   "estadio": {
     "nome": "Boca do Lobo",

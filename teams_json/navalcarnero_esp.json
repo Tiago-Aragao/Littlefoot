@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Pablo Álvarez",
   "estadio": {
     "nome": "Mariano González ",

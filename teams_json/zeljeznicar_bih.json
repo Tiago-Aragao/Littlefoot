@@ -3,7 +3,7 @@
   "pais": "Bósnia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Edis Mulalic",
   "estadio": {
     "nome": "Grbavica",

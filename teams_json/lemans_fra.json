@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Didier Ollé-Nicolle",
   "estadio": {
     "nome": "MMArena",

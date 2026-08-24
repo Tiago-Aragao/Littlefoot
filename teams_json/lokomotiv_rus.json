@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Josef Zinnbauer",
   "estadio": {
     "nome": "Lokomotiv Stadium",

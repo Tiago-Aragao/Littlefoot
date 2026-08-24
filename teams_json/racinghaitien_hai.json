@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pierre Sonche",
   "estadio": {
     "nome": "Sylvio Cator",

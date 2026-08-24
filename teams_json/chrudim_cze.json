@@ -3,7 +3,7 @@
   "pais": "República Tcheca",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pavel Jirousek",
   "estadio": {
     "nome": "Za Vodojemem",

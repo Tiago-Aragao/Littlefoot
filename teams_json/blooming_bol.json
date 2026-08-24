@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Miguel Ponce",
   "estadio": {
     "nome": "Ramón Tahuichi Aguilera",

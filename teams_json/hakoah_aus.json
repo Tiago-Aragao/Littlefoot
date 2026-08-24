@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mark Robertson",
   "estadio": {
     "nome": "Hakoah Stadium",

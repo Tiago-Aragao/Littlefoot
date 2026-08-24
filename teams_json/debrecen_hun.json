@@ -3,7 +3,7 @@
   "pais": "Hungria",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "João Janeiro",
   "estadio": {
     "nome": "Nagyerdei",

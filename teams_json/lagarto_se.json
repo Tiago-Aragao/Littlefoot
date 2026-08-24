@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Sergipe",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Betinho",
   "estadio": {
     "nome": "Barretão",

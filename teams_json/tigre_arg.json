@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Diego Martínez",
   "estadio": {
     "nome": "José Dellagiovanna",

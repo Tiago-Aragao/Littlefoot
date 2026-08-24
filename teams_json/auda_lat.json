@@ -3,7 +3,7 @@
   "pais": "Letônia",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Andrejs Rubins",
   "estadio": {
     "nome": "Ķekavas stadions",

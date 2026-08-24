@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Wilson Gutiérrez",
   "estadio": {
     "nome": "Cuscatlán",

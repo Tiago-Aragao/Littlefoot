@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 1,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jean-Louis Gasset",
   "estadio": {
     "nome": "Chaban-Delmas",

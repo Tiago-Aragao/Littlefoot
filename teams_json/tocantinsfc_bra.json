@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Tocantins",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Paulo César Moraes",
   "estadio": {
     "nome": "Castanheirão",

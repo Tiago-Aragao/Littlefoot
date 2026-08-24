@@ -3,7 +3,7 @@
   "pais": "Sérvia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ilija Stolica",
   "estadio": {
     "nome": "Stadion FK",

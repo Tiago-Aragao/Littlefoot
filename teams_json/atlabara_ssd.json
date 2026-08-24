@@ -3,7 +3,7 @@
   "pais": "Sudão do Sul",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ajak Sebit",
   "estadio": {
     "nome": "Juba Stadium",

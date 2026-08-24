@@ -3,7 +3,7 @@
   "pais": "Coreia do Norte",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Han Won-Chol",
   "estadio": {
     "nome": "Sinŭiju Stadium",

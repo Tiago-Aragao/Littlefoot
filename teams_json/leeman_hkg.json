@@ -3,7 +3,7 @@
   "pais": "Hong Kong",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hiu-Ming Chan",
   "estadio": {
     "nome": "Sham Shui Po Sports Ground",

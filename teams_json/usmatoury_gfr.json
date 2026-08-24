@@ -3,7 +3,7 @@
   "pais": "Guiana Francesa",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Steeve Falgayrettes",
   "estadio": {
     "nome": "Municipal Dr. Edmard Lama",

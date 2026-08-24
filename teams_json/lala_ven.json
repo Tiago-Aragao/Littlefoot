@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Del Valle Rojas",
   "estadio": {
     "nome": "Peninsular Pedro Conde",

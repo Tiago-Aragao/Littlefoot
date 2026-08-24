@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 21,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Igor Tudor",
   "estadio": {
     "nome": "White Hart Lane",

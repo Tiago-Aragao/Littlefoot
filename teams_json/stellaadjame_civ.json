@@ -3,7 +3,7 @@
   "pais": "Costa do Marfim",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guillaume Lago Bailly",
   "estadio": {
     "nome": "Municipal d'Agboville",

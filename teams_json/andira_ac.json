@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Acre",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jangito",
   "estadio": {
     "nome": "Arena Acreana",

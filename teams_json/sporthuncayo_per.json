@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Carlos Desio",
   "estadio": {
     "nome": "Huancayo",

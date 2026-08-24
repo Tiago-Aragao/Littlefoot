@@ -3,7 +3,7 @@
   "pais": "Emirados Árabes",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Carlos Carvalhal",
   "estadio": {
     "nome": "Al-Nahyan",

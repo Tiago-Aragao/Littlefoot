@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Ruperto Gonzalez",
   "estadio": {
     "nome": "Complejo Deportivo Santa Julia",

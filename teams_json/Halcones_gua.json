@@ -3,7 +3,7 @@
   "pais": "Guatemala",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Adan Paniagua",
   "estadio": {
     "nome": "Estadio Comunal de la Mesilla",

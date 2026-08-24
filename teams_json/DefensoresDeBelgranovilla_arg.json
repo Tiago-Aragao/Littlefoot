@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Héctor Storti",
   "estadio": {
     "nome": "Salomón Boeseldín",

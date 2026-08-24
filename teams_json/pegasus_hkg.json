@@ -3,7 +3,7 @@
   "pais": "Hong Kong",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pei-Tak Peter Man",
   "estadio": {
     "nome": "Hong Kong Stadium",

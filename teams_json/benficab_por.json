@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 14,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Antonio Oliveira",
   "estadio": {
     "nome": "Caixa Futebol Campus",

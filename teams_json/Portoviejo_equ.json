@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 15,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rubén Darío Insúa",
   "estadio": {
     "nome": "Reales Tamarindos",

@@ -3,7 +3,7 @@
   "pais": "Serra Leoa",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Boubacar Sarr",
   "estadio": {
     "nome": "Demba Diop",

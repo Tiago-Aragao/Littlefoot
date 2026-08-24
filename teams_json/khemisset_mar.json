@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jaouad Milani",
   "estadio": {
     "nome": "Stade du 18 novembre",

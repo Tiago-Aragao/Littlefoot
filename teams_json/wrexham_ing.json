@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Sam Ricketts",
   "estadio": {
     "nome": "Racecourse Ground",

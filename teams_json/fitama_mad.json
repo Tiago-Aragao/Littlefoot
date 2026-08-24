@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Napoléon Ranarivelo",
   "estadio": {
     "nome": "Toamasina",

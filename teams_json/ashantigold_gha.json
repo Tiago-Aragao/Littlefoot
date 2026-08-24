@@ -3,7 +3,7 @@
   "pais": "Gana",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Charles Akonnor",
   "estadio": {
     "nome": "Len Clay Stadium",

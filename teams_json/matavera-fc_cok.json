@@ -3,7 +3,7 @@
   "pais": "Ilhas Cook",
   "estado": null,
   "nivel": 1,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Zaoka",
   "estadio": {
     "nome": "CIFA Field",

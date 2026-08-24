@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Edgardo Fuentes ",
   "estadio": {
     "nome": "10 de Diciembre",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Sul",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Cristian de Souza",
   "estadio": {
     "nome": "Antônio David Farina",

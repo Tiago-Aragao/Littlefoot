@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jorge Costa",
   "estadio": {
     "nome": "Vallée du Cher ",

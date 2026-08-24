@@ -3,7 +3,7 @@
   "pais": "Paraguai",
   "estado": null,
   "nivel": 15,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Troadio Duarte",
   "estadio": {
     "nome": "Parque Guairá",

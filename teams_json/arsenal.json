@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 25,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mikel Arteta",
   "estadio": {
     "nome": "Emirates Stadium",

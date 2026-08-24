@@ -3,7 +3,7 @@
   "pais": "Camboja",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Meas Channa",
   "estadio": {
     "nome": "Phnom Penh National Olympic",

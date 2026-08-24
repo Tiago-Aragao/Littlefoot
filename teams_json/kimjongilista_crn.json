@@ -3,7 +3,7 @@
   "pais": "Coreia do Norte",
   "estado": null,
   "nivel": 4,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Jo Kum-chol",
   "estadio": {
     "nome": "Hwaebul Stadium",

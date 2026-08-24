@@ -3,7 +3,7 @@
   "pais": "Colômbia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "German Barato",
   "estadio": {
     "nome": "Municipal de Cota",

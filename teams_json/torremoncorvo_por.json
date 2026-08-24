@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Leandro Pedrosa",
   "estadio": {
     "nome": "Estádio Engenheiro José Aires",

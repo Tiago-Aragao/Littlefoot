@@ -3,7 +3,7 @@
   "pais": "Libano",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Lebor Bala",
   "estadio": {
     "nome": "Stadium Municipal",

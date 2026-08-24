@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alon Ziv",
   "estadio": {
     "nome": "Ilut Stadium",

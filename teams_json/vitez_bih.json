@@ -3,7 +3,7 @@
   "pais": "Bósnia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Vjeran Simunic",
   "estadio": {
     "nome": "Gradski Stadion",

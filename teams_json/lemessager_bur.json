@@ -3,7 +3,7 @@
   "pais": "Burundi",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Francis Haringingo",
   "estadio": {
     "nome": "Urukundo Stadium",

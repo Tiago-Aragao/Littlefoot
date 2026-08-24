@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Noam Shoham",
   "estadio": {
     "nome": "Yankela Grundman Stadium",

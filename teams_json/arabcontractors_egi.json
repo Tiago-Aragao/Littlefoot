@@ -3,7 +3,7 @@
   "pais": "Egito",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mohamed Salah",
   "estadio": {
     "nome": "Arab Contractors Stadium",

@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 16,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Joao Henriques",
   "estadio": {
     "nome": "Clube Desportivo das Aves",

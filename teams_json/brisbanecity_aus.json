@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "John Kosmina",
   "estadio": {
     "nome": "Spencer Park",

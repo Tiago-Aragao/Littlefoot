@@ -3,7 +3,7 @@
   "pais": "Coreia do Norte",
   "estado": null,
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hanj Song Choy",
   "estadio": {
     "nome": "Woonpasan Stadium",

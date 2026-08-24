@@ -3,7 +3,7 @@
   "pais": "Singapura",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Maniam Chetty",
   "estadio": {
     "nome": "Queenstown Stadium",

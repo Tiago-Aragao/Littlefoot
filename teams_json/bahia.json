@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Bahia",
   "nivel": 18,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Rogério Ceni",
   "estadio": {
     "nome": "Fonte Nova",

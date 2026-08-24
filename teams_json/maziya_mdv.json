@@ -3,7 +3,7 @@
   "pais": "Maldivas",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ismail Mahfooz",
   "estadio": {
     "nome": "Rasmee Dhandu",

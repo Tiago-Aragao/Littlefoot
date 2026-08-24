@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marcos Ferrufino",
   "estadio": {
     "nome": "Victor Agustín Ugarte",

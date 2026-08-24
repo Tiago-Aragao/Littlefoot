@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Maranhão",
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Leandro Lago",
   "estadio": {
     "nome": "Mariano Cardoso",

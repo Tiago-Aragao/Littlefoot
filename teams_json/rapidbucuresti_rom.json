@@ -3,7 +3,7 @@
   "pais": "Romênia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Constantin Schumacher",
   "estadio": {
     "nome": "Valentin Stanescu",

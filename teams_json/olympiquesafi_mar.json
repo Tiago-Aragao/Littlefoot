@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mohamed Guisser",
   "estadio": {
     "nome": "El Massira",

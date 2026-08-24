@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 19,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Fred Grim",
   "estadio": {
     "nome": "Amsterdam Arena",

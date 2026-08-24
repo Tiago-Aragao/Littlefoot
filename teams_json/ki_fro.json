@@ -3,7 +3,7 @@
   "pais": "Ilhas Faroe",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mikkjal Thomassen",
   "estadio": {
     "nome": "Við Djúpumýrar",

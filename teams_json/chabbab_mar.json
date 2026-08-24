@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Abdelghani El Othmani",
   "estadio": {
     "nome": "Municipal de Khénifra",

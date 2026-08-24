@@ -3,7 +3,7 @@
   "pais": "Bélgica",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Dave De Herdt",
   "estadio": {
     "nome": "Herman Vanderpoortenstadion",

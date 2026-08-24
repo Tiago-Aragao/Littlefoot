@@ -3,7 +3,7 @@
   "pais": "Escócia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Lee Johnson",
   "estadio": {
     "nome": "Easter Road",

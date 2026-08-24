@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Omar Daf",
   "estadio": {
     "nome": "Auguste-Bonal ",

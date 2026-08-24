@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Kirill Novikov",
   "estadio": {
     "nome": "Neftekhimik",

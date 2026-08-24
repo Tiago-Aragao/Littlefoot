@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Mato Grosso",
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Edilson Júnior",
   "estadio": {
     "nome": "Gigante do Norte",

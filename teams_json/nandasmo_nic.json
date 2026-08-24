@@ -3,7 +3,7 @@
   "pais": "Nicaragua",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Marcos Bodán",
   "estadio": {
     "nome": "Olímpico San Marcos",

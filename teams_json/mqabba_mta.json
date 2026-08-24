@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Leslie Burke",
   "estadio": {
     "nome": "Victor Tedesco Stadium",

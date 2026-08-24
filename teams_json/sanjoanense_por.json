@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Flávio das Neves",
   "estadio": {
     "nome": "Estádio Conde Dias Garcia",

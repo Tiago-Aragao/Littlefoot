@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 5,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Fidel González",
   "estadio": {
     "nome": "Roberto Clemente",

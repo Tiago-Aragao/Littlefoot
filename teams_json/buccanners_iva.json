@@ -3,7 +3,7 @@
   "pais": "Ilhas Virgens Americanas",
   "estado": null,
   "nivel": 9,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Belarn",
   "estadio": {
     "nome": "Lionel Roberts Park",

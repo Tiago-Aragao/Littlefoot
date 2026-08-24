@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 17,
-  "reputacao": 4,
+  "reputacao": "Continental",
   "tecnico": "Ricardo Zielinski",
   "estadio": {
     "nome": "Jorge Luis Hirsch",

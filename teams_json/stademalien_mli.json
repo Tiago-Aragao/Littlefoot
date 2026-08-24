@@ -3,7 +3,7 @@
   "pais": "Mali",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Rigo Gervais",
   "estadio": {
     "nome": "Stade 26 mars",

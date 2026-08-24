@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 21,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Peter Bozs",
   "estadio": {
     "nome": "Philips Stadion",

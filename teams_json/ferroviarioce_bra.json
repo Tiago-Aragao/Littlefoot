@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Ceará",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Francisco Diá",
   "estadio": {
     "nome": "Elzir Cabral",

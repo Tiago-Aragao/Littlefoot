@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 19,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Claude Puel",
   "estadio": {
     "nome": "Allianz Riviera",

@@ -3,7 +3,7 @@
   "pais": "Egito",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hassan Moussa",
   "estadio": {
     "nome": "Beni Suef",

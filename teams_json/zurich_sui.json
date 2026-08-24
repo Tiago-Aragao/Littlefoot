@@ -3,7 +3,7 @@
   "pais": "Tonga",
   "estado": null,
   "nivel": 8,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ludovic Magnin",
   "estadio": {
     "nome": "Stadion Letzigrund",

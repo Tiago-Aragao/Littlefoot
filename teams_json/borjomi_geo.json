@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Koba Tediashvili",
   "estadio": {
     "nome": "Borjomi Stadium",

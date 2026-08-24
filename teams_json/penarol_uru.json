@@ -3,7 +3,7 @@
   "pais": "Uruguai",
   "estado": null,
   "nivel": 18,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mauricio Larriera",
   "estadio": {
     "nome": "Los Aromos",

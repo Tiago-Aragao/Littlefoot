@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "André Branquinho",
   "estadio": {
     "nome": "João Gualberto Borges Arruda",

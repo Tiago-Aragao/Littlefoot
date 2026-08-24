@@ -3,7 +3,7 @@
   "pais": "Martinica",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marceau Jobello",
   "estadio": {
     "nome": "Stade Municipal Pierre-Aliker",

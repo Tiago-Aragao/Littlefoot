@@ -3,7 +3,7 @@
   "pais": "Suiça",
   "estado": null,
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Kurt Feuz",
   "estadio": {
     "nome": "Sandreutenen",

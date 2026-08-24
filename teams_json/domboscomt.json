@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Mato Grosso",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hugo Alcântara",
   "estadio": {
     "nome": "Dito Souza",

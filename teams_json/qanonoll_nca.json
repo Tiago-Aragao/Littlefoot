@@ -3,7 +3,7 @@
   "pais": "Nova Caledônia",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Portier Atama",
   "estadio": {
     "nome": "Stade Numa Daly",

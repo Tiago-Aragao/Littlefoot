@@ -3,7 +3,7 @@
   "pais": "Tailândia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Masami Taki",
   "estadio": {
     "nome": "Singha",

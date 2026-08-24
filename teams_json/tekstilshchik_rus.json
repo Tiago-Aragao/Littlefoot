@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergey Pavlov",
   "estadio": {
     "nome": "Tekstilshchik",

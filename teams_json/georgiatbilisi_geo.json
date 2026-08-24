@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Vladimer Khachidze",
   "estadio": {
     "nome": "Mtskheta Park",

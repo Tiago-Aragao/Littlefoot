@@ -3,7 +3,7 @@
   "pais": "Suiça",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jean-Michel Aeby",
   "estadio": {
     "nome": "Stade de la Fontenette",

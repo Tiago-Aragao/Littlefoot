@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Paulo Sérgio",
   "estadio": {
     "nome": "Portimão Estádio",

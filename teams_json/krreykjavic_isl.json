@@ -3,7 +3,7 @@
   "pais": "Islândia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Rúnar Kristinsson",
   "estadio": {
     "nome": "KR-völlur",

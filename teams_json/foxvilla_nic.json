@@ -3,7 +3,7 @@
   "pais": "Nicaragua",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mario Alegría",
   "estadio": {
     "nome": "Ricardo Morales Avilés",

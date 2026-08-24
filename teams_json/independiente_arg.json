@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 19,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Gustavo Quinteros",
   "estadio": {
     "nome": "Libertadores",

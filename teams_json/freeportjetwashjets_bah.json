@@ -3,7 +3,7 @@
   "pais": "Bahamas",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Joseph Judge",
   "estadio": {
     "nome": "Grand Bahama Stadium",

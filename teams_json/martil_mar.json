@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Amrane El-Ouadie ",
   "estadio": {
     "nome": "Stadium Martil",

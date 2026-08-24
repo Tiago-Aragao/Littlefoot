@@ -3,7 +3,7 @@
   "pais": "Nicaragua",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Oscar Calvo",
   "estadio": {
     "nome": "Cancha Ingenio San Antonio",

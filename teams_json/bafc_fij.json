@@ -3,7 +3,7 @@
   "pais": "Fiji",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ronil Kumar",
   "estadio": {
     "nome": "Govind Park",

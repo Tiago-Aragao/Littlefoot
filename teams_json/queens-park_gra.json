@@ -3,7 +3,7 @@
   "pais": "Granada",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Halcu",
   "estadio": {
     "nome": "Progress Park",

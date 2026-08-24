@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Héctor González",
   "estadio": {
     "nome": "Estadio Olímpico Tsáchila ",

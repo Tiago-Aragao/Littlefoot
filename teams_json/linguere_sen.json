@@ -3,7 +3,7 @@
   "pais": "Senegal",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Amara Traoré",
   "estadio": {
     "nome": "Stade de Linguère",

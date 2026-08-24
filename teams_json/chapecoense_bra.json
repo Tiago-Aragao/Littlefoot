@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Santa Catarina",
   "nivel": 16,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Gilmar Del Pozo",
   "estadio": {
     "nome": "Arena Condá",

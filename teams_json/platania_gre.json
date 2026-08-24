@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Giannis Tatsis",
   "estadio": {
     "nome": "Gipedo Perivolia",

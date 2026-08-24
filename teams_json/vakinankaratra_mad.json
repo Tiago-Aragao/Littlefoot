@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Lucas Randriamanga",
   "estadio": {
     "nome": "Antsirabe",

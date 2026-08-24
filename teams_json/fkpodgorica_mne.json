@@ -3,7 +3,7 @@
   "pais": "Montenegro",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vojo Pejovic",
   "estadio": {
     "nome": "DG Arena",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Rio Grande Norte",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dedé Pilário",
   "estadio": {
     "nome": "Estádio Senador Dinarte Mariz",

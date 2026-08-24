@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 16,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Scott Parker",
   "estadio": {
     "nome": "Turf Moor",

@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Harald Suchard",
   "estadio": {
     "nome": "Generali Arena",

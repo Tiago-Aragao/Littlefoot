@@ -3,7 +3,7 @@
   "pais": "Hungria",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Attila Burzi",
   "estadio": {
     "nome": "Városi",

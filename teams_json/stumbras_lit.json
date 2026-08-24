@@ -3,7 +3,7 @@
   "pais": "Lituânia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "João Luís Martins",
   "estadio": {
     "nome": "NFA stadionas",

@@ -3,7 +3,7 @@
   "pais": "Afeganistão",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Marco Rose",
   "estadio": {
     "nome": "Sem Clube",

@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Didier Tholot",
   "estadio": {
     "nome": "Stade du Hameau",

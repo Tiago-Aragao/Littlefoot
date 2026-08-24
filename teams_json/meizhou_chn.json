@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Xiaotian Zheng",
   "estadio": {
     "nome": "Wuhua County",

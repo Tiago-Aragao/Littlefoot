@@ -3,7 +3,7 @@
   "pais": "Nova Zelândia",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Tony Readings",
   "estadio": {
     "nome": "Bill McKinley Park ",

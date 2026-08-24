@@ -3,7 +3,7 @@
   "pais": "Georgia",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Temur Shalamberidze",
   "estadio": {
     "nome": "Tamaz Stephania Stadium",

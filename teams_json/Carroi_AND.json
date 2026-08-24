@@ -3,7 +3,7 @@
   "pais": "Andorra",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Xavier Canal",
   "estadio": {
     "nome": "Comunal de Aixovall",

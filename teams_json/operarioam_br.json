@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amazonas",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Tibério",
   "estadio": {
     "nome": "Pedro de Alencar",

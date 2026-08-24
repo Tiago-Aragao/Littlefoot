@@ -3,7 +3,7 @@
   "pais": "Paraguai",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Eugenio Ramírez",
   "estadio": {
     "nome": "Leandro Ovelar",

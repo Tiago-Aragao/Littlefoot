@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hans de Koning",
   "estadio": {
     "nome": "De Koel",

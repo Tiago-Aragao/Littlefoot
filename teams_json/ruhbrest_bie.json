@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Andrey Zygmantovich",
   "estadio": {
     "nome": "Stadyen Junost",

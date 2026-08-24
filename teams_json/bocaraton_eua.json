@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Athirson",
   "estadio": {
     "nome": "Atlantic HS",

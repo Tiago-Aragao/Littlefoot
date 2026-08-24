@@ -3,7 +3,7 @@
   "pais": "Andorra",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "José Izquierdo",
   "estadio": {
     "nome": "Comunal de Aixovall",

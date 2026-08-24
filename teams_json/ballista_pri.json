@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Pedro Armstrong",
   "estadio": {
     "nome": "C.D. José Salaman Estrella",

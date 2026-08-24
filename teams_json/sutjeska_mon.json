@@ -3,7 +3,7 @@
   "pais": "Montenegro",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Milija Savovic",
   "estadio": {
     "nome": "Kraj Bistrice",

@@ -3,7 +3,7 @@
   "pais": "Panamá",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mike Stump",
   "estadio": {
     "nome": "Maracaná de Panamá",

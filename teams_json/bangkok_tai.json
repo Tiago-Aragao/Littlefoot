@@ -3,7 +3,7 @@
   "pais": "Taiti",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Mano Pölking",
   "estadio": {
     "nome": "True Stadium",

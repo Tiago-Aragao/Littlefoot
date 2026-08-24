@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Vilson",
   "estadio": {
     "nome": "Baoding People's Stadium",

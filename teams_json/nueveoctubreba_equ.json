@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Juan León",
   "estadio": {
     "nome": "Modelo Alberto Spencer Herrera",

@@ -3,7 +3,7 @@
   "pais": "Egito",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Tarek El Ashry",
   "estadio": {
     "nome": "Harras El-Hedoud Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Piauí",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Lindomar",
   "estadio": {
     "nome": "Deusdeth de Melo",

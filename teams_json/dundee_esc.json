@@ -3,7 +3,7 @@
   "pais": "Escócia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "James McPake",
   "estadio": {
     "nome": "Kilmac Stadium at Dens Park",

@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Maximo Villafañe",
   "estadio": {
     "nome": "Gonzalo Pozo Ripalda",

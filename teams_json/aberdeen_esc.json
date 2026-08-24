@@ -3,7 +3,7 @@
   "pais": "Escócia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jim Goodwin",
   "estadio": {
     "nome": "Pittodrie Stadium",

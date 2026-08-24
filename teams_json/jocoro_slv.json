@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guillermo Rivera",
   "estadio": {
     "nome": "Complejo Deportivo Tierra de Juego",

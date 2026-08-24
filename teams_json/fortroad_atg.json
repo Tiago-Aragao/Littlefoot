@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Derek Roberts",
   "estadio": {
     "nome": "Antigua Recreation Ground",

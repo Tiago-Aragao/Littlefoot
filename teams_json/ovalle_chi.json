@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jorge Guzmán",
   "estadio": {
     "nome": "Municipal de Punitaqui",

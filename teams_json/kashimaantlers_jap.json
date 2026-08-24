@@ -3,7 +3,7 @@
   "pais": "Japão",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Go Oiwa",
   "estadio": {
     "nome": "Kashima Stadium",

@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "James Morissette",
   "estadio": {
     "nome": "Parc Sainte-Thérèse",

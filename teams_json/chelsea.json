@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 23,
-  "reputacao": 4,
+  "reputacao": "Continental",
   "tecnico": "Liam Rosenior",
   "estadio": {
     "nome": "Stamford Bridge",

@@ -3,7 +3,7 @@
   "pais": "Taiti",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mahine",
   "estadio": {
     "nome": "Louis Ganivet",

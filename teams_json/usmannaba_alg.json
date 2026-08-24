@@ -3,7 +3,7 @@
   "pais": "Argélia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Kamel Mouassa",
   "estadio": {
     "nome": "Stade du 19 Mai",

@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 1,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Laínez",
   "estadio": {
     "nome": "Ciudad Deportiva del Zaragoza",

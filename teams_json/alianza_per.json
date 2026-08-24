@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 15,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rony Revollar",
   "estadio": {
     "nome": "Heraclio Tapia",

@@ -3,7 +3,7 @@
   "pais": "Inglaterra",
   "estado": null,
   "nivel": 18,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Fabian Hürzeler",
   "estadio": {
     "nome": "AMEX Stadium",

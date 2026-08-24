@@ -3,7 +3,7 @@
   "pais": "Nova Zelândia",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Danny Rosse",
   "estadio": {
     "nome": "Stade Park",

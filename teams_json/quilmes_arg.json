@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Facundo Sava",
   "estadio": {
     "nome": "Centenario",

@@ -3,7 +3,7 @@
   "pais": "Noruega",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Erling Moe",
   "estadio": {
     "nome": "Aker Stadion",

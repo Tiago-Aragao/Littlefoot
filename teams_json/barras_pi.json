@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Piauí",
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Danilo Queiroz",
   "estadio": {
     "nome": "Juca Fortes",

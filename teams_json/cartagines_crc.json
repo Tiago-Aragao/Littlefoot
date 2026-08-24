@@ -3,7 +3,7 @@
   "pais": "Costa Rica",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Martín Arriola",
   "estadio": {
     "nome": "Fello Meza",

@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "João Eduardo Alves",
   "estadio": {
     "nome": "João Paulo II ",

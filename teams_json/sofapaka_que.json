@@ -3,7 +3,7 @@
   "pais": "Quênia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "John Baraza",
   "estadio": {
     "nome": "Nyayo National",

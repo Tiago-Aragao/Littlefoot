@@ -3,7 +3,7 @@
   "pais": "Venezuela",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Danny de Oliveira",
   "estadio": {
     "nome": "Nacional Brígido Iriarte",

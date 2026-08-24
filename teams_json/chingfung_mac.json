@@ -3,7 +3,7 @@
   "pais": "Macau",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "João da Rosa",
   "estadio": {
     "nome": "Campo Desportivo",

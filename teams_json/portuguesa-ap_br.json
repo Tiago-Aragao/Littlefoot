@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amapá",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Pedro Neves",
   "estadio": {
     "nome": "Arena Portuguesa ",

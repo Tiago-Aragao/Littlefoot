@@ -3,7 +3,7 @@
   "pais": "Mali",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Alou Badra Diallo",
   "estadio": {
     "nome": "Omnisports Modibo Keïta",

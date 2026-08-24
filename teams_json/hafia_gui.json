@@ -3,7 +3,7 @@
   "pais": "Guiné",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Lansana Béa Diallo",
   "estadio": {
     "nome": "Stade 28 Septembre",

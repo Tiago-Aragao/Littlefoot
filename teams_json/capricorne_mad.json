@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sander Robison",
   "estadio": {
     "nome": "Stade Maître Kira",

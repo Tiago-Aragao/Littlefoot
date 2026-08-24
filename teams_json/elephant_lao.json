@@ -3,7 +3,7 @@
   "pais": "Laos",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Keona Phommathep",
   "estadio": {
     "nome": "Xangnoy Stadium",

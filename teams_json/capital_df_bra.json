@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Distrito Federal",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Victor Santana",
   "estadio": {
     "nome": "Antônio Otoni Filho",

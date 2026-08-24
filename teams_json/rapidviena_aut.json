@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ferdinand Feldhofer",
   "estadio": {
     "nome": "Allianz Stadion",

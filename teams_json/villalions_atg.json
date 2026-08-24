@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Nathaniel Morrow",
   "estadio": {
     "nome": "Sticky Wicket Stadium",

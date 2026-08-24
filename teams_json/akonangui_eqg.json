@@ -3,7 +3,7 @@
   "pais": "Guiné Equatorial",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Jean-Marie Kenzo",
   "estadio": {
     "nome": "La Liberdad",

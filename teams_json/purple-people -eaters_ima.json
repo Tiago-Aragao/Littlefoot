@@ -3,7 +3,7 @@
   "pais": "Ilhas Marshall",
   "estado": null,
   "nivel": 1,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Doigoar",
   "estadio": {
     "nome": "Majuro Stadium",

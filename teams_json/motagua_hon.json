@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Diego Vásquez",
   "estadio": {
     "nome": "Nacional",

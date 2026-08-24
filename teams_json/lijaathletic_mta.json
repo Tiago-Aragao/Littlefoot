@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Joseph Brincat",
   "estadio": {
     "nome": "Luxol Sports Ground",

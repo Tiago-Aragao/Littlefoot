@@ -3,7 +3,7 @@
   "pais": "Polônia",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mazurkiewicz",
   "estadio": {
     "nome": "Stadion Miejski",

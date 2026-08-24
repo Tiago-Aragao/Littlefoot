@@ -3,7 +3,7 @@
   "pais": "Croácia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Igor Tudor",
   "estadio": {
     "nome": "Poljud",

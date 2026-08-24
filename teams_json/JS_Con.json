@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Patrick Royan",
   "estadio": {
     "nome": "Brazzaville",

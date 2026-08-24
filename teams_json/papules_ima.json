@@ -3,7 +3,7 @@
   "pais": "Ilhas Marshall",
   "estado": null,
   "nivel": 7,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Niapla",
   "estadio": {
     "nome": "Majuro Stadium",

@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Cristiano Bacci",
   "estadio": {
     "nome": "João Cardoso",

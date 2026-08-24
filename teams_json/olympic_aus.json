@@ -3,7 +3,7 @@
   "pais": "Austrália",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ben Cahn",
   "estadio": {
     "nome": "Goodwin Park",

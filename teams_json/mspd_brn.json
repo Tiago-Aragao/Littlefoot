@@ -3,7 +3,7 @@
   "pais": "Brunei",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Quoteu",
   "estadio": {
     "nome": "Majlis Ground",

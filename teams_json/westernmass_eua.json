@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Federico Molinari",
   "estadio": {
     "nome": "Lusitano Stadium",

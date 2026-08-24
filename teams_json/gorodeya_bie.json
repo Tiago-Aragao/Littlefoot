@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Sergey Yaromko",
   "estadio": {
     "nome": "Gorodeya",

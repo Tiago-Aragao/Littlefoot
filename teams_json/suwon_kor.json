@@ -3,7 +3,7 @@
   "pais": "Coreia do Sul",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Im-saeng Lee",
   "estadio": {
     "nome": "Suwon Stadium",

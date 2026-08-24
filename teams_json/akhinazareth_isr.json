@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Kassem Dabur",
   "estadio": {
     "nome": "Ilut",

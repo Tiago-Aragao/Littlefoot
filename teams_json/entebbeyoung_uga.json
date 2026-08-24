@@ -3,7 +3,7 @@
   "pais": "Uganda",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Bill Ivanz",
   "estadio": {
     "nome": "National Entebbe",

@@ -3,7 +3,7 @@
   "pais": "Senegal",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Demba N'Diaye",
   "estadio": {
     "nome": "Aline Sitoe Diatta",

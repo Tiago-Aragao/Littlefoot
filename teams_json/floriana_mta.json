@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Gianluca Atzori",
   "estadio": {
     "nome": "Independence",

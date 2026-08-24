@@ -3,7 +3,7 @@
   "pais": "Noruega",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Jostein Grindhaug",
   "estadio": {
     "nome": "Haugesund Stadion",

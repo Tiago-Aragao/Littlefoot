@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 18,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Diego Dabove",
   "estadio": {
     "nome": "Tomás Ducó",

@@ -3,7 +3,7 @@
   "pais": "Angola",
   "estado": null,
   "nivel": 8,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Romeu Filemon",
   "estadio": {
     "nome": "Estádio dos Coqueiros",

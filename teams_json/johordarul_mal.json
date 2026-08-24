@@ -3,7 +3,7 @@
   "pais": "Malásia",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Luciano Figueroa",
   "estadio": {
     "nome": "Ibrahim Larkin",

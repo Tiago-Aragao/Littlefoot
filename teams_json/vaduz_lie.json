@@ -3,7 +3,7 @@
   "pais": "Liechtenstein",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Alessandro Mangiarratti",
   "estadio": {
     "nome": "Rheinpark",

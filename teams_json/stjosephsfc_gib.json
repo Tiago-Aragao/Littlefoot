@@ -3,7 +3,7 @@
   "pais": "Gibraltar",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Raúl Procopio",
   "estadio": {
     "nome": "Victoria Stadium",

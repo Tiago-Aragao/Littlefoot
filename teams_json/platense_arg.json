@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 19,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Walter Zunino",
   "estadio": {
     "nome": "Vicente López",

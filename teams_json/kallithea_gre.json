@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Loukas Karadimos",
   "estadio": {
     "nome": "Stadio Kallitheas ",

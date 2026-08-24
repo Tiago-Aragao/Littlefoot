@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Julio Velázquez",
   "estadio": {
     "nome": "Estádio do Bonfim",

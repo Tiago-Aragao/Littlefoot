@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 1,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Andreas Brännström",
   "estadio": {
     "nome": "Stadsparksvallen",

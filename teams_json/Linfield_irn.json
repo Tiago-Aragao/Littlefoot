@@ -3,7 +3,7 @@
   "pais": "Irlanda do Norte",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "David Healy",
   "estadio": {
     "nome": "Windsor Park",

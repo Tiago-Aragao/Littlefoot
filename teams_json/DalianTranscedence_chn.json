@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guoxu Li",
   "estadio": {
     "nome": "Jinzhou Stadium",

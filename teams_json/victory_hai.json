@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hilaire Widley",
   "estadio": {
     "nome": "Les Cayes",

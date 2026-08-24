@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Simo Krunic",
   "estadio": {
     "nome": "Stadion Cukaricki",

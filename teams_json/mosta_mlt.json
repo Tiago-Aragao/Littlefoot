@@ -3,7 +3,7 @@
   "pais": "Malta",
   "estado": null,
   "nivel": 2,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mark Miller",
   "estadio": {
     "nome": "Charles Abela Memoria",

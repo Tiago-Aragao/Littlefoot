@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Aleksey Merkulov",
   "estadio": {
     "nome": "Tsentralny",

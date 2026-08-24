@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dani Etzioni",
   "estadio": {
     "nome": "Municipal of Herzliya",

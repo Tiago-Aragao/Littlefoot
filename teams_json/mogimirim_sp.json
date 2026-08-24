@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 1,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Luiz",
   "estadio": {
     "nome": "Estádio Vail Chaves",

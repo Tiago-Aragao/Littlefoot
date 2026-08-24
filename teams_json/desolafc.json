@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 1,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Guar-De-Sola",
   "estadio": {
     "nome": "Estádio Gil Lopes, o Gilzão",

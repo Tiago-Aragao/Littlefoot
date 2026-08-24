@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 17,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Renato Paiva",
   "estadio": {
     "nome": "León",

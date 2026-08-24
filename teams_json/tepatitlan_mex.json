@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Francisco Ramírez",
   "estadio": {
     "nome": "Tepa Gómez",

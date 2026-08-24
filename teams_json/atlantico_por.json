@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Fabrizio Salazar",
   "estadio": {
     "nome": "Aguadilla Municipal",

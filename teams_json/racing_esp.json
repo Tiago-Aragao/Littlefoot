@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Guillermo Fernández Romo",
   "estadio": {
     "nome": "El Sardinero",

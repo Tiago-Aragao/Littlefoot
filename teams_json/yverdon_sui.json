@@ -3,7 +3,7 @@
   "pais": "Suiça",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Anthony Braizat",
   "estadio": {
     "nome": "Stade Municipal",

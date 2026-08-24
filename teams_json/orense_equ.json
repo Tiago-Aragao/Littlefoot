@@ -3,7 +3,7 @@
   "pais": "Equador",
   "estado": null,
   "nivel": 15,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Humberto Pizarro",
   "estadio": {
     "nome": "9 de Mayo",

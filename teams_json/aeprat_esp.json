@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 6,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Pedro Dólera",
   "estadio": {
     "nome": "Municipal Sagnier",

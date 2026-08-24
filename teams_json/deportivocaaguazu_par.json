@@ -3,7 +3,7 @@
   "pais": "Paraguai",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Silvino Pereira",
   "estadio": {
     "nome": "Federico Llamosas",

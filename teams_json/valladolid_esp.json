@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Pacheta",
   "estadio": {
     "nome": "Nuevo José Zorrilla",

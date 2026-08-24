@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Bo Fu",
   "estadio": {
     "nome": "Meixian Tsang Hin-chi",

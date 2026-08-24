@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Prunier",
   "estadio": {
     "nome": "Bernard Gasset Terrain",

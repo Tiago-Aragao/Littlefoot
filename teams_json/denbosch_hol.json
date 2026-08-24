@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Erik van der Ven",
   "estadio": {
     "nome": "Stadion De Vliert",

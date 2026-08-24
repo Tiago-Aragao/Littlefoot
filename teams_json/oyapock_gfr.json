@@ -3,7 +3,7 @@
   "pais": "Guiana Francesa",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guillaume Davy",
   "estadio": {
     "nome": "Saint-Georges-de-l'Oyapock",

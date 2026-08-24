@@ -3,7 +3,7 @@
   "pais": "Kosovo",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mensur Simnica",
   "estadio": {
     "nome": "Stadiumi Agron Rama",

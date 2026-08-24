@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "León Domínguez",
   "estadio": {
     "nome": "Estadio Luis Pérez Lozano",

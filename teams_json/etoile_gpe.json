@@ -3,7 +3,7 @@
   "pais": "Guadalupe",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Guillaume Maupas",
   "estadio": {
     "nome": "Morne-a-Leau",

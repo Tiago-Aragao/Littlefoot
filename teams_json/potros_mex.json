@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 14,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "David Rangel",
   "estadio": {
     "nome": "Estadio Alberto Córdoba ",

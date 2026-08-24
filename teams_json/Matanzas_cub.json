@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Carlomagno",
   "estadio": {
     "nome": "Estadio Calimete",

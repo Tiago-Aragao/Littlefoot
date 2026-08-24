@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 4,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Rui Matos",
   "estadio": {
     "nome": "Municipal Ponte da Barca",

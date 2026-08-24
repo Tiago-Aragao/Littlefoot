@@ -3,7 +3,7 @@
   "pais": "Guadalupe",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Gaetan Baltrus",
   "estadio": {
     "nome": "Municipal Petit-Canal",

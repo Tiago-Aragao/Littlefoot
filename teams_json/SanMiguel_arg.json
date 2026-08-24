@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Hernández",
   "estadio": {
     "nome": "Malvinas Argentinas",

@@ -3,7 +3,7 @@
   "pais": "Suiça",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Uli Forte",
   "estadio": {
     "nome": "Stadion Letzigrund",

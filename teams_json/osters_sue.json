@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Denis Velic",
   "estadio": {
     "nome": "Myresjöhus Arena",

@@ -3,7 +3,7 @@
   "pais": "Uruguai",
   "estado": null,
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Rodrigo Sánchez",
   "estadio": {
     "nome": "Batalla de Sarandí",

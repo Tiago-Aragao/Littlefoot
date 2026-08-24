@@ -3,7 +3,7 @@
   "pais": "San Marino",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rocco Cotroneo",
   "estadio": {
     "nome": "Massimo Sbrighi",

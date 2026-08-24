@@ -3,7 +3,7 @@
   "pais": "Canadá",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sasa Vukovic",
   "estadio": {
     "nome": "Heritage Field",

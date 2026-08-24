@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Pará",
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sinomar Naves",
   "estadio": {
     "nome": "Navegantão",

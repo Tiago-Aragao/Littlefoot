@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jorge Aravena",
   "estadio": {
     "nome": "Félix Valdivia",

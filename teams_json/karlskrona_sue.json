@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Stefan Linder",
   "estadio": {
     "nome": "Västra Mark IP ",

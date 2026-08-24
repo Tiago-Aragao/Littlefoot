@@ -3,7 +3,7 @@
   "pais": "Ilhas Cayman",
   "estado": null,
   "nivel": 8,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Gregoire Ewbanks",
   "estadio": {
     "nome": "T.E. McField Sports Centre",

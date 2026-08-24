@@ -3,7 +3,7 @@
   "pais": "Ilhas Virgens Americanas",
   "estado": null,
   "nivel": 4,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Fumph",
   "estadio": {
     "nome": "Lionel Roberts Park",

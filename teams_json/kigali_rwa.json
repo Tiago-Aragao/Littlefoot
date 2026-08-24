@@ -3,7 +3,7 @@
   "pais": "Ruanda",
   "estado": null,
   "nivel": 9,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Kévin Zinga",
   "estadio": {
     "nome": "Stade Amahoro",

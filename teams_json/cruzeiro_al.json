@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Alagoas",
   "nivel": 8,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Albuquerque",
   "estadio": {
     "nome": "Coaracy da Mata Fonseca",

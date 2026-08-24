@@ -3,7 +3,7 @@
   "pais": "Egito",
   "estado": null,
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Hatem El Sadat",
   "estadio": {
     "nome": "Mansoura Stadium",

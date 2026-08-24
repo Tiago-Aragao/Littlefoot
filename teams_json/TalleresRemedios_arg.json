@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Vicentín",
   "estadio": {
     "nome": "de Talleres de Remedios De Escalada",

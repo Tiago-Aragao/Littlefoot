@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "São Paulo",
   "nivel": 4,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Edson Fio",
   "estadio": {
     "nome": "Jayme Cintra",

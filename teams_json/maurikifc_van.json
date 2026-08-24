@@ -3,7 +3,7 @@
   "pais": "Vanuatu",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Tazio",
   "estadio": {
     "nome": "Port Villa Municipal",

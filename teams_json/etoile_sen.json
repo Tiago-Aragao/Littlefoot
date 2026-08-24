@@ -3,7 +3,7 @@
   "pais": "Serra Leoa",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Ousmane Gûèyèux",
   "estadio": {
     "nome": "CT Etoile (Dackar)",

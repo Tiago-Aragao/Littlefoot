@@ -3,7 +3,7 @@
   "pais": "Costa Rica",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "San Jorge",
   "estadio": {
     "nome": "CDI",

@@ -3,7 +3,7 @@
   "pais": "Israel",
   "estado": null,
   "nivel": 11,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Guy Luzon",
   "estadio": {
     "nome": "Hapoel Petach-Tikva",

@@ -3,7 +3,7 @@
   "pais": "Guam",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Matias Isai",
   "estadio": {
     "nome": "GFA Center Lower Field",

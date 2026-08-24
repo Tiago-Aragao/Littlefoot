@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Paraná",
   "nivel": 3,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Omar Feitosa",
   "estadio": {
     "nome": "Vila Capanema",

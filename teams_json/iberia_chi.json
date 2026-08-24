@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Patricio Almendra",
   "estadio": {
     "nome": "Municipal De Los Ángeles",

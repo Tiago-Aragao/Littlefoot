@@ -3,7 +3,7 @@
   "pais": "Nicaragua",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Adolfo Castellanos",
   "estadio": {
     "nome": "Solidaridad Augusto Mendoza",

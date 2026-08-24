@@ -3,7 +3,7 @@
   "pais": "Gana",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Robert Carlos",
   "estadio": {
     "nome": "Tamale Stadium",

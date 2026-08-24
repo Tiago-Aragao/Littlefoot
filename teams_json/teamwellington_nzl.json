@@ -3,7 +3,7 @@
   "pais": "Nova Zelândia",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Scott Hales",
   "estadio": {
     "nome": "Farrington Park",

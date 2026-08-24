@@ -3,7 +3,7 @@
   "pais": "Bolivia",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "José Enrique Peña",
   "estadio": {
     "nome": "Estadio Juan Carlos Durán",

@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 9,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Carlomagno Genovese",
   "estadio": {
     "nome": "Estadio Ramón Gómez Silvera",

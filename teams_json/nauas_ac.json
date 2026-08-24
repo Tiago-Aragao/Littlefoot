@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Acre",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mauro Lazzari",
   "estadio": {
     "nome": "Arena do Juruá",

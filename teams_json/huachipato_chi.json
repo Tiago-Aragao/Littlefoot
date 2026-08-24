@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 17,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "José Luvera",
   "estadio": {
     "nome": "CAP Acero",

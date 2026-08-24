@@ -3,7 +3,7 @@
   "pais": "Uruguai",
   "estado": null,
   "nivel": 18,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Pablo Repetto",
   "estadio": {
     "nome": "Centenário",

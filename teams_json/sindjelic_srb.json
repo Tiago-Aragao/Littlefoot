@@ -3,7 +3,7 @@
   "pais": "Sérvia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Dragan Djukanovic",
   "estadio": {
     "nome": "FK Sindjelić",

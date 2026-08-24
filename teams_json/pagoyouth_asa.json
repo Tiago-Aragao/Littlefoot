@@ -3,7 +3,7 @@
   "pais": "Guiné",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Rambo Tapui",
   "estadio": {
     "nome": "Pago Park",

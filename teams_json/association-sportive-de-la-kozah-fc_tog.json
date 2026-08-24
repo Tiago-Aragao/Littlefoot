@@ -3,7 +3,7 @@
   "pais": "Togo",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Abalo Amélété",
   "estadio": {
     "nome": "Stade Agoè-Nyivé",

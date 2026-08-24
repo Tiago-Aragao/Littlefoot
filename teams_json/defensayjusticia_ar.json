@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 16,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sebastián Beccacece",
   "estadio": {
     "nome": "Jorge Vendakis",

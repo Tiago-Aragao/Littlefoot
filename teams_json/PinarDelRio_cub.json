@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 6,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Hérnan Luna",
   "estadio": {
     "nome": "Stade Pinar",

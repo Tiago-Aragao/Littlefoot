@@ -3,7 +3,7 @@
   "pais": "Dinamarca",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Bo Henriksen",
   "estadio": {
     "nome": "MCH Arena",

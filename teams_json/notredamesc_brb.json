@@ -3,7 +3,7 @@
   "pais": "Barbados",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ricardo Best",
   "estadio": {
     "nome": "Barbados National Stadium",

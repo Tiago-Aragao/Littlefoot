@@ -3,7 +3,7 @@
   "pais": "Eslováquia",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Vladimir Weiss",
   "estadio": {
     "nome": "Tehelné Pole",

@@ -3,7 +3,7 @@
   "pais": "Macau",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Leong Wai Meng",
   "estadio": {
     "nome": "Macau University",

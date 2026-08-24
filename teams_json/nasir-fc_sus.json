@@ -3,7 +3,7 @@
   "pais": "Sudão do Sul",
   "estado": null,
   "nivel": 7,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Kamal Enwoeval",
   "estadio": {
     "nome": "Juba Stadium",

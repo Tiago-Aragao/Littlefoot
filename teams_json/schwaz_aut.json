@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Bernhard Lampl",
   "estadio": {
     "nome": "Silberstadt-Arena Schwaz",

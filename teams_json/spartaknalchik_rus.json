@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Sergei Trubitsin",
   "estadio": {
     "nome": "Republican Stadium Spartak",

@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Juan Durand",
   "estadio": {
     "nome": "Niño Héroe Manuel Bonilla",

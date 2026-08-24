@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Javier Sanguinetti",
   "estadio": {
     "nome": "Florencio Sola",

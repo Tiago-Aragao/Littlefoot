@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 7,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Kalid Broussard",
   "estadio": {
     "nome": "Sphere Park ",

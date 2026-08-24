@@ -3,7 +3,7 @@
   "pais": "Bósnia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Nikola Nikic",
   "estadio": {
     "nome": "Stadion Luke",

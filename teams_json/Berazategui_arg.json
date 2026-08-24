@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Bernald",
   "estadio": {
     "nome": "Norman Lee",

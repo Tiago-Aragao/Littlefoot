@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 17,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Carlos Corberán",
   "estadio": {
     "nome": "Mestalla",

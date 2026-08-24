@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 19,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ernesto Valverde",
   "estadio": {
     "nome": "San Mamés Barria",

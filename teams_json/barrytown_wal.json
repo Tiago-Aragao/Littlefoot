@@ -3,7 +3,7 @@
   "pais": "País de Gales",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Gavin Chesterfield",
   "estadio": {
     "nome": "Jenner Park",

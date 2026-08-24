@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Rainer Torres",
   "estadio": {
     "nome": "Carlos A. Olivares",

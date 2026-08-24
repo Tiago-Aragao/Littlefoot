@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Jun Zhang",
   "estadio": {
     "nome": "Shaanxi Province Stadium",

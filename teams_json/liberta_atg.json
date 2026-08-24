@@ -3,7 +3,7 @@
   "pais": "Antigua",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Bruce Copeland",
   "estadio": {
     "nome": "Sticky Wicket Stadium",

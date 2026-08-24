@@ -3,7 +3,7 @@
   "pais": "Jamaica",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Anthony Patrick",
   "estadio": {
     "nome": "Constant Spring Stadium",

@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Alagoas",
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jaelson Marcelino",
   "estadio": {
     "nome": "Juca Sampaio",

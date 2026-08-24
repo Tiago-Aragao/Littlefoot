@@ -3,7 +3,7 @@
   "pais": "México",
   "estado": null,
   "nivel": 12,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Christian Giménez",
   "estadio": {
     "nome": "Quintana Roo",

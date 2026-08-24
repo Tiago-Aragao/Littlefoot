@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Javier Sanguinetti",
   "estadio": {
     "nome": "La Independencia",

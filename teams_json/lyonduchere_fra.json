@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 7,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Mokeddem",
   "estadio": {
     "nome": "Stade de Balmont",

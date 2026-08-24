@@ -3,7 +3,7 @@
   "pais": "Cuba",
   "estado": null,
   "nivel": 2,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Julius Christopher",
   "estadio": {
     "nome": "Estádio Gerona",

@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Claude Puel",
   "estadio": {
     "nome": "Geoffroy-Guichard",

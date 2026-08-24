@@ -3,7 +3,7 @@
   "pais": "Iêmen",
   "estado": null,
   "nivel": 15,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Tarek Soliman",
   "estadio": {
     "nome": "Abu walad stadium",

@@ -3,7 +3,7 @@
   "pais": "Emirados Árabes",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Alisson  Backer",
   "estadio": {
     "nome": "Bin Zayed",

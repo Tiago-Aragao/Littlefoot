@@ -3,7 +3,7 @@
   "pais": "Polônia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "John van den Brom",
   "estadio": {
     "nome": "Stadion Poznań",

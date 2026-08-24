@@ -3,7 +3,7 @@
   "pais": "Espanha",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Raúl Jardiel",
   "estadio": {
     "nome": "Espiñedo",

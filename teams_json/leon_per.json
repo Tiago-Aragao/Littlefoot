@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Giovanni Figueroa",
   "estadio": {
     "nome": "Heraclio Tapia",

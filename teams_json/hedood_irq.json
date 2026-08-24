@@ -3,7 +3,7 @@
   "pais": "Iraque",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Mudhafar Jabbar",
   "estadio": {
     "nome": "Al-Taji Stadium",

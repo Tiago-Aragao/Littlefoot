@@ -3,7 +3,7 @@
   "pais": "Guiana",
   "estado": null,
   "nivel": 6,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Karl Lagerfeld",
   "estadio": {
     "nome": "Linden Stadium",

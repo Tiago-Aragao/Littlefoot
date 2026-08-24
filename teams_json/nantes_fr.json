@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 16,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Ahmed Kantari",
   "estadio": {
     "nome": "Stade de la Beaujoire",

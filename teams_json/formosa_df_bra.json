@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Distrito Federal",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Heli Carlos",
   "estadio": {
     "nome": "Diogão",

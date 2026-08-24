@@ -3,7 +3,7 @@
   "pais": "Rússia",
   "estado": null,
   "nivel": 16,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Igor Shalimov",
   "estadio": {
     "nome": "Akhmat-Arena",

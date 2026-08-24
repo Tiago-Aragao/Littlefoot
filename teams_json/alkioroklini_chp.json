@@ -3,7 +3,7 @@
   "pais": "Chipre",
   "estado": null,
   "nivel": 3,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Kostas Sakkas",
   "estadio": {
     "nome": "Ammochostos Stadium",

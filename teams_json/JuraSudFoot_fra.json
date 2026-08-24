@@ -3,7 +3,7 @@
   "pais": "França",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Moulin",
   "estadio": {
     "nome": "du Champ de Bienne",

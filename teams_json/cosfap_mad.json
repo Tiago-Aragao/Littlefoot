@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Enzo Joanarison",
   "estadio": {
     "nome": "Mahamasina Stadium",

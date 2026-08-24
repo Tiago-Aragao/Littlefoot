@@ -3,7 +3,7 @@
   "pais": "Grécia",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Kiriakos Grigorakis",
   "estadio": {
     "nome": "Stadio Chanion",

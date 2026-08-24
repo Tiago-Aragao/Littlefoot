@@ -3,7 +3,7 @@
   "pais": "Bahamas",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Mitchell Marsh",
   "estadio": {
     "nome": "Davies Field",

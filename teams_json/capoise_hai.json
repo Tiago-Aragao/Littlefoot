@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Roudy Joseph",
   "estadio": {
     "nome": "Parc Saint-Victor",

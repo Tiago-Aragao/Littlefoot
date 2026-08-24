@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jubair Benchemsi",
   "estadio": {
     "nome": "Municipal de Salmi",

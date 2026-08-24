@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 13,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Filipe Cândido",
   "estadio": {
     "nome": "Municipal da Marinha Grande",

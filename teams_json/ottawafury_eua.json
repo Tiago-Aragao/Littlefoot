@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Nikola Popovic",
   "estadio": {
     "nome": "TD Place Stadium",

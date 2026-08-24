@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 14,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Abderrahim Talib",
   "estadio": {
     "nome": "Prince Moulay Abdellah",

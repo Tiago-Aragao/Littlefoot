@@ -3,7 +3,7 @@
   "pais": "Guiné",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Junkung Kama",
   "estadio": {
     "nome": "Stade du 28 Septembre",

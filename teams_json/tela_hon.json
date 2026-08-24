@@ -3,7 +3,7 @@
   "pais": "Honduras",
   "estado": null,
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Luis Alonso Barahona",
   "estadio": {
     "nome": "Municipal de Tela",

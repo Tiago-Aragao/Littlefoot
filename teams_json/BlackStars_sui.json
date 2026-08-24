@@ -3,7 +3,7 @@
   "pais": "Suiça",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Samir Tabakovic",
   "estadio": {
     "nome": "Sportplatz Buschweilerhof",

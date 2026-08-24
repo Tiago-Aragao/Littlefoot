@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Espírito Santo",
   "nivel": 5,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Rodrigo Almeida",
   "estadio": {
     "nome": "Engenheiro Alencar de Araripe",

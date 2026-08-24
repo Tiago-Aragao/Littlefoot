@@ -3,7 +3,7 @@
   "pais": "Holanda",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Johan Steur\t",
   "estadio": {
     "nome": "Kras Stadion",

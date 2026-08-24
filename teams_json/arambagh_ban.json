@@ -3,7 +3,7 @@
   "pais": "Bangladesh",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Maruful Haque",
   "estadio": {
     "nome": "Mymensingh Stadium",

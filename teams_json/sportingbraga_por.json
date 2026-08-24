@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 19,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Carlos Vicens",
   "estadio": {
     "nome": "Municipal",

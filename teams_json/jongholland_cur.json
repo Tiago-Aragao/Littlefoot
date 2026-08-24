@@ -3,7 +3,7 @@
   "pais": "El Salvador",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Henry Caldera",
   "estadio": {
     "nome": "Stadion Ergilio Hato",

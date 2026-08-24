@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Thomas Silberberger",
   "estadio": {
     "nome": "Gernot Langes",

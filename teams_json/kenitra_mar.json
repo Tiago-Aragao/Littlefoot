@@ -3,7 +3,7 @@
   "pais": "Marrocos",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Jamal Jebrane",
   "estadio": {
     "nome": "Stade Municipal de Kénitra",

@@ -3,7 +3,7 @@
   "pais": "Haiti",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Carlo Marcelin",
   "estadio": {
     "nome": "Parc de Land des Gabions des Cayes",

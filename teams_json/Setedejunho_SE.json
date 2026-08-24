@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Sergipe",
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Gil Sergipano",
   "estadio": {
     "nome": "Brejeirão",

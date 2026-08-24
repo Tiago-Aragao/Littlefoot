@@ -3,7 +3,7 @@
   "pais": "Porto Rico",
   "estado": null,
   "nivel": 3,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Lazaro Corp",
   "estadio": {
     "nome": "San Juan Municipal",

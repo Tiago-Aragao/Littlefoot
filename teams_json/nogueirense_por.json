@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "João Pires",
   "estadio": {
     "nome": "Estádio de Santo António",

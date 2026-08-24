@@ -3,7 +3,7 @@
   "pais": "China",
   "estado": null,
   "nivel": 13,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Roberto Donadoni",
   "estadio": {
     "nome": "Shenzhen Sports Centre Stadium",

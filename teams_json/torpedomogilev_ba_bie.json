@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 3,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Alexandr Vopsev",
   "estadio": {
     "nome": "Torpedo Stadium",

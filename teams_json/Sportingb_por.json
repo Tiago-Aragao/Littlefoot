@@ -3,7 +3,7 @@
   "pais": "Portugal",
   "estado": null,
   "nivel": 10,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "João de Deus",
   "estadio": {
     "nome": "CGD Aurélio Pereira",

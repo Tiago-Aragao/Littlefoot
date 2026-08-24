@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 3,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Canteros",
   "estadio": {
     "nome": "Coliseo de los Sueños",

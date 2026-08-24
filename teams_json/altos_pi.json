@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Piauí",
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Carlos Rabello",
   "estadio": {
     "nome": "Felipão",

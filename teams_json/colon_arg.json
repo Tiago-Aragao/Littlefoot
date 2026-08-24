@@ -3,7 +3,7 @@
   "pais": "Argentina",
   "estado": null,
   "nivel": 14,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Marcelo Saralegui",
   "estadio": {
     "nome": "Estanislao López",

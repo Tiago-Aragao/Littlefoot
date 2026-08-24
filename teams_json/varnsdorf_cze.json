@@ -3,7 +3,7 @@
   "pais": "República Tcheca",
   "estado": null,
   "nivel": 11,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "David Oulehla",
   "estadio": {
     "nome": "Stadion v Kotlině",

@@ -3,7 +3,7 @@
   "pais": "Mongolia",
   "estado": null,
   "nivel": 12,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Ganzorig Dashnyam",
   "estadio": {
     "nome": "National Sports",

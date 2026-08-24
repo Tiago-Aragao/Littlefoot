@@ -3,7 +3,7 @@
   "pais": "Brasil",
   "estado": "Amazonas",
   "nivel": 5,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Gabriel Moura",
   "estadio": {
     "nome": "Álvaro Maranhão",

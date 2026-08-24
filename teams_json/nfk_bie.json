@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 9,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Sergey Kuzminich",
   "estadio": {
     "nome": "Stadion FK Minsk",

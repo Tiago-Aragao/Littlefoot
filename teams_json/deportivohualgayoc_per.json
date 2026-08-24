@@ -3,7 +3,7 @@
   "pais": "Peru",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Haruki Kanashiro",
   "estadio": {
     "nome": "El Frutillo",

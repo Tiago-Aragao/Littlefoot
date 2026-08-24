@@ -3,7 +3,7 @@
   "pais": "Luxemburgo",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Angelo Fiorucci",
   "estadio": {
     "nome": "Communal Mondercange",

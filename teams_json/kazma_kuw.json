@@ -3,7 +3,7 @@
   "pais": "Kuwait",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Aleksandar Jovanovski",
   "estadio": {
     "nome": "Al-Sadaqua Walsalam Stadium",

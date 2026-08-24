@@ -3,7 +3,7 @@
   "pais": "Curaçao",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "David de Abreu",
   "estadio": {
     "nome": "Ergilio Hato",

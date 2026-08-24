@@ -3,7 +3,7 @@
   "pais": "Barbados",
   "estado": null,
   "nivel": 13,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Thomas Jordan",
   "estadio": {
     "nome": "Bridgetown",

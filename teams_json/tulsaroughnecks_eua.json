@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Michael Nsien",
   "estadio": {
     "nome": "ONEOK Field",

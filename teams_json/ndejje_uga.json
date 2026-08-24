@@ -3,7 +3,7 @@
   "pais": "Uganda",
   "estado": null,
   "nivel": 6,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Johathan Gamwera ",
   "estadio": {
     "nome": "Kampala Municipal",

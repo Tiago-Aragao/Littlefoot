@@ -3,7 +3,7 @@
   "pais": "Paraguai",
   "estado": null,
   "nivel": 12,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Ricardo Torresi",
   "estadio": {
     "nome": "Parque Fulgencio Yegros",

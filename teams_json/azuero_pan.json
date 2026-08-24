@@ -3,7 +3,7 @@
   "pais": "Panamá",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Carlos Valdez",
   "estadio": {
     "nome": "Estadio Los Milagros",

@@ -3,7 +3,7 @@
   "pais": "Botsuana",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Sikalame Keatlholetswe",
   "estadio": {
     "nome": "SSKB Stadium",

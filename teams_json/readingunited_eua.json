@@ -3,7 +3,7 @@
   "pais": "EUA",
   "estado": null,
   "nivel": 8,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alan McCann",
   "estadio": {
     "nome": "Gurski Stadium",

@@ -3,7 +3,7 @@
   "pais": "Belarus",
   "estado": null,
   "nivel": 4,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Alexandr Sobol",
   "estadio": {
     "nome": "Stadyen Haradski",

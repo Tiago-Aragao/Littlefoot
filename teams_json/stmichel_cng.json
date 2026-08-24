@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 9,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Michel Ndanda",
   "estadio": {
     "nome": "Alphonse Massamba-Débat",

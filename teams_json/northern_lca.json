@@ -3,7 +3,7 @@
   "pais": "Santa Lúcia",
   "estado": null,
   "nivel": 10,
-  "reputacao": 3,
+  "reputacao": "Nacional",
   "tecnico": "Chad St. Clair",
   "estadio": {
     "nome": "Gros Islet Cricket Oval",

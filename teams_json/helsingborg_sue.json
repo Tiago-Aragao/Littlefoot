@@ -3,7 +3,7 @@
   "pais": "Suécia",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Olof Mellberg",
   "estadio": {
     "nome": "Olympia",

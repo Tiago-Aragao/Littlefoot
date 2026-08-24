@@ -3,7 +3,7 @@
   "pais": "Bermudas",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Phillip Burgess",
   "estadio": {
     "nome": "Wellington Oval",

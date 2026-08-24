@@ -3,7 +3,7 @@
   "pais": "Madagascar",
   "estado": null,
   "nivel": 4,
-  "reputacao": 0,
+  "reputacao": "Municipal",
   "tecnico": "Jean-Jacques Tsiajotso",
   "estadio": {
     "nome": "Mahamasina Stadium",

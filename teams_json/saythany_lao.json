@@ -3,7 +3,7 @@
   "pais": "Laos",
   "estado": null,
   "nivel": 10,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Kye Khamsomphou",
   "estadio": {
     "nome": "New Laos National Stadium",

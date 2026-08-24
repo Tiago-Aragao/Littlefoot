@@ -3,7 +3,7 @@
   "pais": "Áustria",
   "estado": null,
   "nivel": 15,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Klaus Schmidt",
   "estadio": {
     "nome": "Arena Hartberg",

@@ -3,7 +3,7 @@
   "pais": "Chile",
   "estado": null,
   "nivel": 10,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Roberto Rojas",
   "estadio": {
     "nome": "San Vicente De Tagua Tagua",

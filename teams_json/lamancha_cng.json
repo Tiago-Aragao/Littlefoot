@@ -3,7 +3,7 @@
   "pais": "Congo",
   "estado": null,
   "nivel": 11,
-  "reputacao": 1,
+  "reputacao": "Estadual",
   "tecnico": "Paul Ndiki",
   "estadio": {
     "nome": "Compl.Sportif de Pointe-Noire",

@@ -3,7 +3,7 @@
   "pais": "Catar",
   "estado": null,
   "nivel": 12,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Aziz Ben Askar",
   "estadio": {
     "nome": "Qatar SC Stadium",

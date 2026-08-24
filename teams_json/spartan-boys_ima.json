@@ -3,7 +3,7 @@
   "pais": "Ilhas Marshall",
   "estado": null,
   "nivel": 2,
-  "reputacao": 2,
+  "reputacao": "Regional",
   "tecnico": "Neydicei",
   "estadio": {
     "nome": "Majuro Stadium",
