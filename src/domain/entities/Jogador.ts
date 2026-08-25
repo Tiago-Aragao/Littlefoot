@@ -3,21 +3,23 @@ import type { Posicao, Habilidade, Lado } from "../types/Enums.js"
 // Classe Jogador:
 export class Jogador {
     // Dados Padrão:
-    public nome: string
-    public idade: number
-    public nacionalidade: string
-    public titularidade: string
-    public craque: boolean
-    public craque_mundial: boolean
+    nome: string
+    idade: number
+    nacionalidade: string
+    titularidade: string
+    craque: boolean
+    craque_mundial: boolean
     // Dados Otimizados:
-    public posicao: Posicao;
-    public habilidade1: Habilidade;
-    public habilidade2: Habilidade;
-    public lado: Lado;
+    posicao: Posicao;
+    habilidade1: Habilidade;
+    habilidade2: Habilidade;
+    lado: Lado;
     // Dados internos:
-    public forca: number;
-    public vantagens: string[]; // Futuramente será public vantagens: Vantagem[]; Onde as vantagens que o jogador terá também serão objetos.
-
+    forca: number;
+    vantagens: string[]; // Futuramente será public vantagens: Vantagem[]; Onde as vantagens que o jogador terá também serão objetos.
+    salario: number;
+    energia: number;
+    
     // Metodo Construtor: 
     constructor (dados_mapeados: any) {
         // Dados Padrão:
@@ -35,6 +37,8 @@ export class Jogador {
         // Dados internos:
         this.forca = 0;
         this.vantagens = [];
+        this.salario = 0.0;
+        this.energia = 100.00;
     }
 
     // Metodo para alterar idade:
