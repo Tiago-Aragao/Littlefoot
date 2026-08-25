@@ -15,6 +15,8 @@ export class Time {
     reputacao: Reputacao;
     //Plantel de Jogadores:
     plantel: Jogador[];
+    plantel_juniores: Jogador[];
+    dinheiro_em_caixa: number;
 
     constructor (dados_otimizados:any) {
       this.nome = dados_otimizados.nome;
@@ -29,6 +31,9 @@ export class Time {
       this.reputacao = dados_otimizados.reputacao;
       // Plantel:
       this.plantel = [];
+      this.plantel_juniores = [];
+      // Dinheiro em caixa: 
+      this.dinheiro_em_caixa = 0.0; // Inicia em 0
     }
 
     
