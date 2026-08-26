@@ -4,6 +4,7 @@ export class TimeMapper {
     
     public static json_dto(json: any) {
         return {
+            id_time: json.id_time,
             nome: json.nome,
             pais: json.pais,
             estado: json.estado,

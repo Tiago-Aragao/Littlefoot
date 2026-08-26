@@ -4,6 +4,7 @@ import { Reputacao } from "../types/Enums.js";
 import type { Cores_Time } from "../values_objects/Cores_Time.js";
 
 export class Time {
+    id_time: number;
     nome: string;
     pais: string;
     estado: string | null;
@@ -19,6 +20,7 @@ export class Time {
     dinheiro_em_caixa: number;
 
     constructor (dados_otimizados:any) {
+      this.id_time = dados_otimizados.id_time;
       this.nome = dados_otimizados.nome;
       this.pais = dados_otimizados.pais;
       this.estado = dados_otimizados.estado;
