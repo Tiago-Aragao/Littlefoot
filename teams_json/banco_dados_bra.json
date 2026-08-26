@@ -1,102 +1,103 @@
 {
-  "nome": "Banco de Dados",
-  "pais": "Brasil",
-  "estado": "São Paulo",
-  "nivel": 5,
-  "reputacao": "Nacional",
-  "tecnico": "Banco",
-  "estadio": {
-    "nome": "Dados",
-    "capacidade": 25000
-  },
-  "cores": {
-    "primaria": "#ffffff",
-    "secundaria": "#000000"
-  },
-  "plantel": [
-    {
-      "nome": "Colocação Defesa Penalty",
-      "idade": 20,
-      "nacionalidade": "Brasil",
-      "posicao": "Goleiro",
-      "caracteristica_primaria": "Colocação",
-      "caracteristica_secundaria": "Defesa Penalty",
-      "lado": "Esquerdo",
-      "titularidade": "Titular",
-      "craque": false,
-      "craque_mundial": false
+    "id_time": 961,
+    "nome": "Banco de Dados",
+    "pais": "Brasil",
+    "estado": "São Paulo",
+    "nivel": 5,
+    "reputacao": "Nacional",
+    "tecnico": "Banco",
+    "estadio": {
+        "nome": "Dados",
+        "capacidade": 25000
     },
-    {
-      "nome": "Reflexo Saída Gol",
-      "idade": 20,
-      "nacionalidade": "Brasil",
-      "posicao": "Goleiro",
-      "caracteristica_primaria": "Reflexo",
-      "caracteristica_secundaria": "Saída do Gol",
-      "lado": "Direito",
-      "titularidade": "Banco",
-      "craque": false,
-      "craque_mundial": false
+    "cores": {
+        "primaria": "#ffffff",
+        "secundaria": "#000000"
     },
-    {
-      "nome": "Armação Cabeceio",
-      "idade": 35,
-      "nacionalidade": "Brasil",
-      "posicao": "Lateral",
-      "caracteristica_primaria": "Armação",
-      "caracteristica_secundaria": "Cabeceio",
-      "lado": "Esquerdo",
-      "titularidade": "Titular",
-      "craque": false,
-      "craque_mundial": false
-    },
-    {
-      "nome": "Cruzamento Desarme",
-      "idade": 20,
-      "nacionalidade": "Brasil",
-      "posicao": "Lateral",
-      "caracteristica_primaria": "Cruzamento",
-      "caracteristica_secundaria": "Desarme",
-      "lado": "Direito",
-      "titularidade": "Banco",
-      "craque": false,
-      "craque_mundial": false
-    },
-    {
-      "nome": "Drible Finalização",
-      "idade": 20,
-      "nacionalidade": "Brasil",
-      "posicao": "Lateral",
-      "caracteristica_primaria": "Drible",
-      "caracteristica_secundaria": "Finalização",
-      "lado": "Esquerdo",
-      "titularidade": "Titular",
-      "craque": false,
-      "craque_mundial": false
-    },
-    {
-      "nome": "Marcação Passe",
-      "idade": 20,
-      "nacionalidade": "Brasil",
-      "posicao": "Lateral",
-      "caracteristica_primaria": "Marcação",
-      "caracteristica_secundaria": "Passe",
-      "lado": "Direito",
-      "titularidade": "Banco",
-      "craque": false,
-      "craque_mundial": false
-    },
-    {
-      "nome": "Resistência Velocidade",
-      "idade": 20,
-      "nacionalidade": "Brasil",
-      "posicao": "Zagueiro",
-      "caracteristica_primaria": "Resistência",
-      "caracteristica_secundaria": "Velocidade",
-      "lado": "Esquerdo",
-      "titularidade": "Titular",
-      "craque": false,
-      "craque_mundial": false
-    }
-  ]
+    "plantel": [
+        {
+            "nome": "Colocação Defesa Penalty",
+            "idade": 20,
+            "nacionalidade": "Brasil",
+            "posicao": "Goleiro",
+            "caracteristica_primaria": "Colocação",
+            "caracteristica_secundaria": "Defesa Penalty",
+            "lado": "Esquerdo",
+            "titularidade": "Titular",
+            "craque": false,
+            "craque_mundial": false
+        },
+        {
+            "nome": "Reflexo Saída Gol",
+            "idade": 20,
+            "nacionalidade": "Brasil",
+            "posicao": "Goleiro",
+            "caracteristica_primaria": "Reflexo",
+            "caracteristica_secundaria": "Saída do Gol",
+            "lado": "Direito",
+            "titularidade": "Banco",
+            "craque": false,
+            "craque_mundial": false
+        },
+        {
+            "nome": "Armação Cabeceio",
+            "idade": 35,
+            "nacionalidade": "Brasil",
+            "posicao": "Lateral",
+            "caracteristica_primaria": "Armação",
+            "caracteristica_secundaria": "Cabeceio",
+            "lado": "Esquerdo",
+            "titularidade": "Titular",
+            "craque": false,
+            "craque_mundial": false
+        },
+        {
+            "nome": "Cruzamento Desarme",
+            "idade": 20,
+            "nacionalidade": "Brasil",
+            "posicao": "Lateral",
+            "caracteristica_primaria": "Cruzamento",
+            "caracteristica_secundaria": "Desarme",
+            "lado": "Direito",
+            "titularidade": "Banco",
+            "craque": false,
+            "craque_mundial": false
+        },
+        {
+            "nome": "Drible Finalização",
+            "idade": 20,
+            "nacionalidade": "Brasil",
+            "posicao": "Lateral",
+            "caracteristica_primaria": "Drible",
+            "caracteristica_secundaria": "Finalização",
+            "lado": "Esquerdo",
+            "titularidade": "Titular",
+            "craque": false,
+            "craque_mundial": false
+        },
+        {
+            "nome": "Marcação Passe",
+            "idade": 20,
+            "nacionalidade": "Brasil",
+            "posicao": "Lateral",
+            "caracteristica_primaria": "Marcação",
+            "caracteristica_secundaria": "Passe",
+            "lado": "Direito",
+            "titularidade": "Banco",
+            "craque": false,
+            "craque_mundial": false
+        },
+        {
+            "nome": "Resistência Velocidade",
+            "idade": 20,
+            "nacionalidade": "Brasil",
+            "posicao": "Zagueiro",
+            "caracteristica_primaria": "Resistência",
+            "caracteristica_secundaria": "Velocidade",
+            "lado": "Esquerdo",
+            "titularidade": "Titular",
+            "craque": false,
+            "craque_mundial": false
+        }
+    ]
 }
