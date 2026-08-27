@@ -1,4 +1,4 @@
-function valor_aleatorio(minimo:number, maximo:number):number {
+export function valor_aleatorio(minimo:number, maximo:number):number {
     /*
     Função para gerar um numero aleatorio de de x a y.
     */
