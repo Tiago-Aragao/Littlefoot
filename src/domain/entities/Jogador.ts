@@ -19,7 +19,7 @@ export class Jogador {
     // Dados internos:
     forca: number;
     vantagens: Vantagem[];
-    salario: number;
+    private salario: number;
     valor_mercado: number;
     energia: number;
     historico_notas: Registro_Desempenho[]; // Irá guardar desempenho geral do jogador, gols, notas, assistencias, cartões, etc.
@@ -44,7 +44,7 @@ export class Jogador {
         // Dados internos:
         this.forca = 0;
         this.vantagens = [];
-        this.salario = 0.0;
+        this.salario = 0;
         this.valor_mercado = 0;
         this.energia = 100.00;
         this.historico_notas = [];
@@ -53,7 +53,16 @@ export class Jogador {
         this.experiencia = 0;
     }
 
-    
+    public get salario_jogador(): number {
+        return this.salario;
+    }
+
+    public set adicionar_salario_jogador(valor: number) {
+        if (valor > 0) {
+            this.salario = valor; 
+        }
+    }
+
     public aumentar_forca() {
         /*
             Metodo que permite aumentar a força do jogador.
