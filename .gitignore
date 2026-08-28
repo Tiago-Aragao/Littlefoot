@@ -2,3 +2,5 @@
 .idea/
 *.pdf
 node_modules/
+**/__pycache__/
+docs/vantagens_rascunho.md

@@ -45,3 +45,7 @@ export enum Reputacao {
     Mundial = 6
 }
 
+export enum Titularidade {
+    Titular = 1,
+    Banco = 0
+}

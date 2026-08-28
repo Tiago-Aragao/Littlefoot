@@ -1,4 +1,4 @@
-import {Posicao, Habilidade, Lado } from "../types/Enums.js";
+import {Posicao, Habilidade, Lado, Titularidade } from "../types/Enums.js";
 
 export class JogadorMapper {
     public static json_dto (dados_json:any) {
@@ -7,18 +7,28 @@ export class JogadorMapper {
             nome: dados_json.nome,
             idade: dados_json.idade,
             nacionalidade: dados_json.nacionalidade,
-            titularidade: dados_json.titularidade,
             craque: dados_json.craque,
             craque_mundial: dados_json.craque_mundial,
             // Dados Otimizados:
-            posicao: this.Mapear_Posicao(dados_json.posicao),
-            habilidade1: this.Mapear_Habilidade(dados_json.caracteristica_primaria),
-            habilidade2: this.Mapear_Habilidade(dados_json.caracteristica_secundaria),
-            lado: this.Mapear_Lado(dados_json.lado)
+            titularidade: this.mapear_titularidade(dados_json.titularidade),
+            posicao: this.mapear_posicao(dados_json.posicao),
+            habilidade1: this.mapear_habilidade(dados_json.caracteristica_primaria),
+            habilidade2: this.mapear_habilidade(dados_json.caracteristica_secundaria),
+            lado: this.mapear_lado(dados_json.lado)
         }
     }
 
-    private static Mapear_Posicao(posicao_string: String){
+    
+    private static mapear_titularidade(titularidade_string: string) {
+        switch (titularidade_string?.toLowerCase()) {
+            case "titular": return Titularidade.Titular;
+            case "banco": return Titularidade.Banco;
+            // Tratamento de erro:
+            default: return Titularidade.Banco;
+        }
+    }
+    
+    private static mapear_posicao(posicao_string: string) {
         switch(posicao_string?.toLowerCase()) {
             case "goleiro": return Posicao.Goleiro;
             case "zagueiro": return Posicao.Zagueiro;
@@ -30,7 +40,7 @@ export class JogadorMapper {
         }
     }
 
-    private static Mapear_Habilidade(habilidade_string: String) {
+    private static mapear_habilidade(habilidade_string: string) {
         switch(habilidade_string?.toLocaleLowerCase()) {
             // Habilidade de Goleiro:
             case "colocacao": return Habilidade.Colocacao;
@@ -53,7 +63,7 @@ export class JogadorMapper {
         }
     }
 
-    private static Mapear_Lado(lado_string:String) {
+    private static mapear_lado(lado_string: string) {
         switch(lado_string?.toLocaleLowerCase()) {
             case "esquerdo": return Lado.Esquerdo;
             case "direito": return Lado.Direito;
