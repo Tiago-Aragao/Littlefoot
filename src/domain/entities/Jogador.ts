@@ -25,6 +25,7 @@ export class Jogador {
     historico_notas: Registro_Desempenho[]; // Irá guardar desempenho geral do jogador, gols, notas, assistencias, cartões, etc.
     desempenho_atual: Registro_Desempenho; // Registro do ano vigente.
     notas_atuais: [number, number][]; // Tupla que guarda: [id_partida, nota]
+    experiencia: number; // Será usado para aumentar a força do jogador.
 
     // Metodo Construtor: 
     constructor (dados_mapeados: any, ano_atual: number, id_time_atual:number) {
@@ -49,8 +50,28 @@ export class Jogador {
         this.historico_notas = [];
         this.desempenho_atual = this.gerar_estatistica_zerada(ano_atual, id_time_atual);
         this.notas_atuais = [];
+        this.experiencia = 0;
     }
 
+    
+    public aumentar_forca() {
+        /*
+            Metodo que permite aumentar a força do jogador.
+        */
+       if (this.forca < 999) {
+        this.forca++;
+       }
+    }
+
+    public reduzir_forca() {
+        /*
+            Metodo que permite reduzir a força do jogador.
+        */
+        if (this.forca > 1) {
+            this.forca--;
+        }
+    }
+    
     // Metodo para alterar idade:
     public envelhecer ():void {
         /*
