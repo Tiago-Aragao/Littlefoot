@@ -1,6 +1,6 @@
 import { Jogador } from "../entities/Jogador.js";
 import { Time } from "../entities/Time.js";
-import { Reputacao, Posicao } from "../types/Enums.js";
+import { Reputacao, Posicao, Titularidade } from "../types/Enums.js";
 import { Vantagem } from "../entities/Vantagem.js";
 import { valor_aleatorio } from "../../utils/valor_aleatorio.js";
 
@@ -10,7 +10,7 @@ export class Fabrica_Jogador {
         const jogador = new Jogador(dados_json, ano_atual, time.id_time);
         jogador.forca = this.forca_inicial(jogador, time);
         jogador.valor_mercado = this.calcular_valor_mercado(jogador, time);
-        jogador.salario = this.calcular_salario(jogador, time);
+        jogador.adicionar_salario_jogador = this.calcular_salario(jogador, time); 
         // jogador.vantagens.push(this.sortear_vantagem());
         return jogador;
     }
@@ -20,6 +20,11 @@ export class Fabrica_Jogador {
             Calculo de força de jogadores.
         */
         let base = time.nivel * 1.5;
+        let bonus_titular = 0
+
+        if (jogador.titularidade) {
+            bonus_titular = valor_aleatorio(0,2);
+        }
 
         // Colocando uma base de reputação na força:
         let valor_reputacao = 0; // inicializando.
@@ -38,7 +43,7 @@ export class Fabrica_Jogador {
         }
         const variacao = valor_aleatorio(-1, 5);
 
-        let forca_final = base + variacao + valor_reputacao;
+        let forca_final = base + variacao + valor_reputacao + bonus_titular;
         // Arredonda a força para o próximo número inteiro (ex: 75.5 vira 76)
         forca_final = Math.ceil(forca_final);
         
@@ -173,8 +178,8 @@ export class Fabrica_Jogador {
         }
 
         // Piso salarial mensal (não vou usar semanal):
-        if (salario < 2000) {
-            salario = 2000;
+        if (salario < 500) {
+            salario = 500;
         }
 
         // Variação aleatoria para dar uma diferenciada nos salarios:
