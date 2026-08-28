@@ -15,9 +15,13 @@ export class Time {
     // Dado Otimizado:
     reputacao: Reputacao;
     //Plantel de Jogadores:
-    plantel: Jogador[];
-    plantel_juniores: Jogador[];
-    dinheiro_em_caixa: number;
+    private plantel: Jogador[];
+    private plantel_juniores: Jogador[];
+    // Finança do time:
+    private dinheiro: number;
+    // Indicadores gerais:
+    confianca_diretoria: number; // irá de 0 a 100
+    confianca_torcida: number; // ira de 0 a 100
 
     constructor (dados_otimizados:any) {
       this.id_time = dados_otimizados.id_time;
@@ -35,8 +39,57 @@ export class Time {
       this.plantel = [];
       this.plantel_juniores = [];
       // Dinheiro em caixa: 
-      this.dinheiro_em_caixa = 0.0; // Inicia em 0
+      this.dinheiro = 0.0; // Inicia em 0
+      // indicadores:
+      this.confianca_diretoria = 0;
+      this.confianca_torcida = 0;
     }
 
+    // Financeiro:
+    // getter da grana:
+    public get dinheiro_em_caixa(): number {
+      return this.dinheiro;
+    }
+
+    public set dinheiro_no_caixa(valor: number) {
+      if (valor > 0) {
+        this.dinheiro = valor; 
+      }
+    }
+
+    public receber_valor(valor: number) {
+      if (valor > 0) {
+        this.dinheiro += valor;
+      }
+    }
+
+    public remover_dinheiro(valor: number): boolean {
+      /*
+        Metodo para remover valor do time. fazendo ele ter a possibilidade de ficar devendo.
+      */
+      if (valor > 0) {
+        this.dinheiro -= valor;
+        return true;
+      }
+      return false;
+    }
     
+    public calcular_salario_mensal(): number {
+      let salario_total = 0;
+      for(const jogador of this.plantel) {
+        salario_total += jogador.salario_jogador;        
+      }
+      for (const junior of this.plantel_juniores) {
+        salario_total += junior.salario_jogador;
+      }
+      return salario_total;
+    }
+
+    public pagar_salario_jogadores(): boolean {
+        let salario_jogadores = this.calcular_salario_mensal();
+        if (salario_jogadores > 0) {
+          return this.remover_dinheiro(salario_jogadores);
+        }
+        return false
+    }
 }
