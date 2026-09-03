@@ -20,9 +20,6 @@ export class Junior {
     private forca_maxima: number;
     private desenvolvimento: number; // 0 á 100 em %.
     public potencial: number; // Indicativo de qualidade esperada.
-    // Dados internos da classe:
-    private craque: boolean; // Estrelinha ou não.
-
     
     constructor(dados_gerados: IDadosJunior, forca_inicial: number, forca_maxima: number, potencial: number, desenvolvimento: number) {
         // Dados auditados pela interface :
@@ -41,7 +38,5 @@ export class Junior {
         this.forca_maxima = forca_maxima;
         this.potencial = potencial;
         this.desenvolvimento = desenvolvimento;
-        // Dados inicializados no construtor:
-        this.craque = false; // inicializa em false para receber esse status em uma chance aleatoria a depender do desenvolvimento.
     }
 }
