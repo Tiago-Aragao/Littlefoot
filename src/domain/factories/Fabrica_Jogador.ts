@@ -3,14 +3,16 @@ import { Time } from "../entities/Time.js";
 import { Reputacao, Posicao, Titularidade } from "../types/Enums.js";
 import { Vantagem } from "../entities/Vantagem.js";
 import { valor_aleatorio } from "../../utils/valor_aleatorio.js";
+import { JogadorMapper } from "../mappers/JogadorMapper.js";
 
 export class Fabrica_Jogador {
 
-    public static criar_jogador_do_json(dados_json: any, time: Time, ano_atual: number): Jogador {
-        const jogador = new Jogador(dados_json, ano_atual, time.id_time);
+    public static criar_jogador_do_mapper(dados_json: any, time: Time, ano_atual: number): Jogador {
+        const dados_otimizados = JogadorMapper.json_dto(dados_json);
+        const jogador = new Jogador(dados_otimizados, ano_atual, time.id_time);
         jogador.forca = this.forca_inicial(jogador, time);
         jogador.valor_mercado = this.calcular_valor_mercado(jogador, time);
-        jogador.adicionar_salario_jogador = this.calcular_salario(jogador, time); 
+        jogador.salario_jogador = this.calcular_salario(jogador, time);
         // jogador.vantagens.push(this.sortear_vantagem());
         return jogador;
     }
@@ -20,7 +22,7 @@ export class Fabrica_Jogador {
             Calculo de força de jogadores.
         */
         let base = time.nivel * 1.5;
-        let bonus_titular = 0
+        let bonus_titular = 0;
 
         if (jogador.titularidade) {
             bonus_titular = valor_aleatorio(0,2);
@@ -128,7 +130,7 @@ export class Fabrica_Jogador {
 
     private static calcular_salario(jogador: Jogador, time: Time): number {
         /*
-            Calculo do salario do jogador mensalmente (não usarei semanais).
+        Calculo do salario do jogador mensalmente (não usarei semanais).
         */
         
         // Base salarial por reputação do time:
@@ -195,9 +197,9 @@ export class Fabrica_Jogador {
     /*
     private static sortear_vantagens (): Vantagem {
         /*
-            metodo que sorteia vantagem para o jogador, se o jogador for normal (sem ser craque ou craque mundial) tem uma chance baixa de receber uma vantagem apenas,
-            caso seja craque recebe uma chance maior de ter uma vantagem e uma chance pequena de receber uma segunda vantagem
-            por fim se for craque mundial recebe uma vantagem, uma chance de recebr uma segunda e uma chance pequena de recebr uma terceira           
+        metodo que sorteia vantagem para o jogador, se o jogador for normal (sem ser craque ou craque mundial) tem uma chance baixa de receber uma vantagem apenas,
+        caso seja craque recebe uma chance maior de ter uma vantagem e uma chance pequena de receber uma segunda vantagem
+        por fim se for craque mundial recebe uma vantagem, uma chance de recebr uma segunda e uma chance pequena de recebr uma terceira           
         */
         
         // return new Vantagem;
