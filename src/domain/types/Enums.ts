@@ -16,7 +16,7 @@ export enum Habilidade {
     Defesa_Penalty = 2,
     Reflexo = 3,
     Saida_gol = 4,
-    // Do geral vai de 5 a :
+    // Do geral vai de 5 a 14:
     Armacao = 5,
     Cabeceio = 6,
     Cruzamento = 7,

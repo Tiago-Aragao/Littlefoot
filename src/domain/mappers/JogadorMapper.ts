@@ -12,8 +12,8 @@ export class JogadorMapper {
             // Dados Otimizados:
             titularidade: this.mapear_titularidade(dados_json.titularidade),
             posicao: this.mapear_posicao(dados_json.posicao),
-            habilidade1: this.mapear_habilidade(dados_json.caracteristica_primaria),
-            habilidade2: this.mapear_habilidade(dados_json.caracteristica_secundaria),
+            caracteristica_primaria: this.mapear_habilidade(dados_json.caracteristica_primaria),
+            caracteristica_secundaria: this.mapear_habilidade(dados_json.caracteristica_secundaria),
             lado: this.mapear_lado(dados_json.lado)
         }
     }
