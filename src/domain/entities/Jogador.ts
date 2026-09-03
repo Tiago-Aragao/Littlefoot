@@ -1,3 +1,4 @@
+import type { IDadosJogador } from "../interfaces/IDadosJogador.js"
 import type { Posicao, Habilidade, Lado } from "../types/Enums.js"
 import type { Registro_Desempenho } from "../types/Estatisticas.js"
 import { Vantagem } from "./Vantagem.js"
@@ -25,10 +26,11 @@ export class Jogador {
     historico_notas: Registro_Desempenho[]; // Irá guardar desempenho geral do jogador, gols, notas, assistencias, cartões, etc.
     desempenho_atual: Registro_Desempenho; // Registro do ano vigente.
     notas_atuais: [number, number][]; // Tupla que guarda: [id_partida, nota]
-    experiencia: number; // Será usado para aumentar a força do jogador.
+    // Será exposto:
+    private experiencia: number; // Será usado para aumentar a força do jogador.
 
-    // Metodo Construtor: 
-    constructor (dados_mapeados: any, ano_atual: number, id_time_atual:number) {
+    // Metodo Construtor:
+    constructor (dados_mapeados: IDadosJogador, ano_atual: number, id_time_atual:number) {
         // Dados Padrão:
         this.nome = dados_mapeados.nome;
         this.idade = dados_mapeados.idade;
@@ -50,31 +52,54 @@ export class Jogador {
         this.historico_notas = [];
         this.desempenho_atual = this.gerar_estatistica_zerada(ano_atual, id_time_atual);
         this.notas_atuais = [];
-        this.experiencia = 0;
+        this.experiencia= 0;
     }
 
     public get salario_jogador(): number {
         return this.salario;
     }
 
-    public set adicionar_salario_jogador(valor: number) {
+    public set salario_jogador(valor: number) {
         if (valor > 0) {
-            this.salario = valor; 
+            this.salario = valor;
         }
+    }
+
+    // Getter e Setter da exp do jogador:
+    public get experiencia_atual(): number {
+        return this.experiencia;
+    }
+
+    public adicionar_experiencia(exp: number): void {
+        if (exp > 0) {
+            this.experiencia += exp;
+        }
+    }
+
+    public evoluir_forca(bonus_ganho: number = 0): void {
+        this.aumentar_forca();
+        // Ainda vou definir como interagir com isso, com vantagens que aumentem o quanto de força ganhou ou a depender da situação:
+        this.forca += bonus_ganho;
+        // Checagem:
+        if (this.forca >= 999) {
+            this.forca = 999;
+        }
+        // Aqui eu reseto a EXP: (Possivel mudança no futuro, talvez nao seja da resposabilidade desse metodo):
+        this.experiencia = 0;
     }
 
     public aumentar_forca() {
         /*
-            Metodo que permite aumentar a força do jogador.
+        Metodo que permite aumentar a força do jogador.
         */
-       if (this.forca < 999) {
+        if (this.forca < 999) {
         this.forca++;
-       }
+    }
     }
 
     public reduzir_forca() {
         /*
-            Metodo que permite reduzir a força do jogador.
+        Metodo que permite reduzir a força do jogador.
         */
         if (this.forca > 1) {
             this.forca--;
@@ -84,14 +109,14 @@ export class Jogador {
     // Metodo para alterar idade:
     public envelhecer ():void {
         /*
-            Metodo sem retorno que quando chamado modifica a idade do jogador.
+        Metodo sem retorno que quando chamado modifica a idade do jogador.
         */
-       this.idade += 1;
+        this.idade += 1;
     }
 
     public registrar_partida(id_partida:number, nota:number): void {
         /*
-            Registrando a partida com notas, ano e id:
+        Registrando a partida com notas, ano e id:
         */
         this.notas_atuais.push([id_partida,nota]);
         this.desempenho_atual.jogos += 1;
@@ -109,7 +134,7 @@ export class Jogador {
     
     public encerrar_ciclo(novo_ano:number, id_time: number): void {
         /*
-            Metodo para quando o ano acabar ou para quando o jogador for transferido para um novo time.
+        Metodo para quando o ano acabar ou para quando o jogador for transferido para um novo time.
         */
         // Caso exista partida:
         if (this.desempenho_atual.jogos > 0) {
@@ -134,10 +159,10 @@ export class Jogador {
         this.desempenho_atual.cartoes_vermelhos += 1;
     }
 
-    // Metodo privado auxiliar: 
+    // Metodo privado auxiliar:
     private gerar_estatistica_zerada(ano: number, id_time: number): Registro_Desempenho {
         /*
-            Metodo feito para iniciar a estatistica de cada jogador.
+        Metodo feito para iniciar a estatistica de cada jogador.
         */
         return {
             ano: ano,
