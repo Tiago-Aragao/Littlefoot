@@ -1,9 +1,22 @@
 <div align="center">
-    # ⚽ Littlefoot 
-    [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-    [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-    [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+  <h1><b>⚽ Littlefoot</b></h1>
+
+  <p>
+    <a href="https://www.typescriptlang.org/">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    </a>
+    <a href="https://nodejs.org/">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    </a>
+    <a href="https://www.python.org/">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </a>
+  </p>
+
 </div>
+
+---
 
 # 💡 Ideiologia
 Um motor moderno, limpo e ultra-rápido para jogos de gerenciamento de futebol, construído do zero com TypeScript. Nascido a partir da engenharia reversa de simuladores clássicos, o projeto foca em lógica de programação bruta, arquitetura limpa e alta performance, abandonando limitações legadas.
