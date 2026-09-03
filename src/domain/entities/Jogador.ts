@@ -1,5 +1,5 @@
 import type { IDadosJogador } from "../interfaces/IDadosJogador.js"
-import type { Posicao, Habilidade, Lado } from "../types/Enums.js"
+import type { Posicao, Habilidade, Lado, Titularidade } from "../types/Enums.js"
 import type { Registro_Desempenho } from "../types/Estatisticas.js"
 import { Vantagem } from "./Vantagem.js"
 
@@ -9,7 +9,7 @@ export class Jogador {
     nome: string
     idade: number
     nacionalidade: string
-    titularidade: string
+    titularidade: Titularidade
     craque: boolean
     craque_mundial: boolean
     // Dados Otimizados:
@@ -65,7 +65,7 @@ export class Jogador {
         }
     }
 
-    // Getter e Setter da exp do jogador:
+    // Getter da exp do jogador:
     public get experiencia_atual(): number {
         return this.experiencia;
     }
