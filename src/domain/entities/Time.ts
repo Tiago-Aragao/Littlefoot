@@ -96,9 +96,9 @@ export class Time {
       for(const jogador of this.plantel) {
         salario_total += jogador.salario_jogador;
       }
-      for (const junior of this.plantel_juniores) {
-        salario_total += junior.salario_jogador;
-      }
+      //for (const junior of this.plantel_juniores) {
+      //  salario_total += junior.salario;
+      //}
       return salario_total;
     }
 
@@ -114,7 +114,7 @@ export class Time {
       this.plantel.push(jogador);
     }
 
-    public adicionar_junior (junior: Jogador): void {
+    public adicionar_junior (junior: Junior): void {
       this.plantel_juniores.push(junior);
     }
 
@@ -142,7 +142,7 @@ export class Time {
       return false;
     }
 
-    public dispensar_junior(junior_a_dispensar: Jogador): boolean {
+    public dispensar_junior(junior_a_dispensar: Junior): boolean {
       const index_jogador = this.plantel_juniores.indexOf(junior_a_dispensar);
       
       if (index_jogador !== -1) {
