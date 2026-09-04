@@ -1,6 +1,5 @@
 import type { IDadosJunior } from "../interfaces/IDadosJunior.js"
 import type { Posicao, Habilidade, Lado } from "../types/Enums.js"
-import type { Registro_Desempenho } from "../types/Estatisticas.js"
 import { Vantagem } from "./Vantagem.js"
 
 export class Junior {
@@ -16,7 +15,7 @@ export class Junior {
     private salario: number;
     public valor_estimado: number;
     // Dados externos a interface:
-    private forca_inicial: number;
+    private forca: number;
     private forca_maxima: number;
     private desenvolvimento: number; // 0 á 100 em %.
     public potencial: number; // Indicativo de qualidade esperada.
@@ -34,9 +33,55 @@ export class Junior {
         this.salario = dados_gerados.salario;
         this.valor_estimado = dados_gerados.valor_estimado;
         // Dados criados pelo Fabrica_Junior:
-        this.forca_inicial = forca_inicial;
+        this.forca = forca_inicial;
         this.forca_maxima = forca_maxima;
         this.potencial = potencial;
         this.desenvolvimento = desenvolvimento;
     }
+
+    // Getters:
+    public get salario_junior(): number {
+        return this.salario;
+    }
+
+    public get desenvolvimento_junior(){
+        return this.desenvolvimento;
+    }
+
+    // Setters:
+    public set salario_junior(valor: number) {
+        if (valor > 0) {
+            this.salario = valor;
+        }
+    }
+
+    public set forca_junior(forca_inicial: number) {
+        if (forca_inicial > 0) {
+            this.forca = forca_inicial;
+        }
+    }
+
+    public set forca_maxima_junior(forca_maxima: number) {
+        if (forca_maxima > 0) {
+            this.forca_maxima = forca_maxima;
+        }
+    }
+
+    // Metodos:
+    public aumentar_forca() {
+        /*
+        Metodo que permite aumentar a força do jogador.
+        */
+        if (this.forca < this.forca_maxima) {
+            this.forca++;
+        }
+    }
+
+    public envelhecer ():void {
+        /*
+        Metodo sem retorno que quando chamado modifica a idade do jogador.
+        */
+        this.idade += 1;
+    }
+
 }
