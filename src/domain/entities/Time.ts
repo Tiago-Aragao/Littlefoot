@@ -96,9 +96,9 @@ export class Time {
       for(const jogador of this.plantel) {
         salario_total += jogador.salario_jogador;
       }
-      //for (const junior of this.plantel_juniores) {
-      //  salario_total += junior.salario;
-      //}
+      for (const junior of this.plantel_juniores) {
+        salario_total += junior.salario_junior;
+      }
       return salario_total;
     }
 
