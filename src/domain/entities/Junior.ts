@@ -47,6 +47,14 @@ export class Junior {
     public get desenvolvimento_junior(){
         return this.desenvolvimento;
     }
+    
+    public get forca_junior(): number {
+        return this.forca;
+    }
+
+    public get forca_maxima_junior(): number {
+        return this.forca_maxima;
+    }
 
     // Setters:
     public set salario_junior(valor: number) {
